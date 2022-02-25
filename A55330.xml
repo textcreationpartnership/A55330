@@ -1,0 +1,1485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The path-way to perfect sayling shewing briefly the six principall points or grounds of navigation / written by Richard Polter ; whereunto is added A navticall discovrse ...  first penned by John Basset ; and now put forth to publike view with some addition by Henry Bond.</title>
+            <author>Polter, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 146 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55330</idno>
+            <idno type="STC">Wing P2781</idno>
+            <idno type="STC">ESTC R24059</idno>
+            <idno type="EEBO-CITATION">07944556</idno>
+            <idno type="OCLC">ocm 07944556</idno>
+            <idno type="VID">40630</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55330)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40630)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1211:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The path-way to perfect sayling shewing briefly the six principall points or grounds of navigation / written by Richard Polter ; whereunto is added A navticall discovrse ...  first penned by John Basset ; and now put forth to publike view with some addition by Henry Bond.</title>
+                  <author>Polter, Richard.</author>
+               </titleStmt>
+               <extent>58 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Forcet for George Hurlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A navticall discovrse" wanting.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Navigation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40630:1"/>
+            <p>The Path-way to perfect SAYLING. Shewing briefly the ſix principall Points or Grounds of NAVIGATION.</p>
+            <p>Written by Mr. RICHARD POLTER, one of the late princi<g ref="char:EOLhyphen"/>pall Maſters of the Navie Royall. And now publiſhed for the Common good of all Maſters, Pilots, and other Sea-men whatſoever.</p>
+            <p>Whereunto is added, A NAVTICALL DISCOVRSE neceſsary to be knowne of all SEA-MEN to prove the way of a Ship (upon the Superficies of the Sea) out<g ref="char:EOLhyphen"/>ward and homeward to be both one, returning by the oppoſite Point of the Meridian Compaſſe: And alſo to prove the Eaſt and Weſt directed by the Me<g ref="char:EOLhyphen"/>ridian Compaſſe to lead in a Magneticall paralell. <hi>Firſt penned by</hi> JOHN BASSET <hi>deceaſed, a Teacher of Naviga<g ref="char:EOLhyphen"/>tion at</hi> Chattam <hi>in</hi> Kent. And now put forth to publike view with ſome Addition, <hi>By</hi> HENRY BOND.</p>
+            <p>LONDON, Printed by T. FORCET for GEORGE HURLOCK, and are to be ſold at his ſhop neere St.
+<hi>Magnus</hi> corner. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:40630:2"/>
+            <p>
+               <figure>
+                  <figDesc>compass rose</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:40630:2"/>
+            <head>THE PATH-WAY to perfect SAYLING.</head>
+            <argument>
+               <p>Shewing the ſixe principall Points or Grounds, con<g ref="char:EOLhyphen"/>cerning Navigation.
+<list>
+                     <item>1 The Card,</item>
+                     <item>2 Compaſſe,</item>
+                     <item>3 Tide,</item>
+                     <item>4 Time,</item>
+                     <item>5 Wind,</item>
+                     <item>6 Way.</item>
+                  </list>
+               </p>
+            </argument>
+            <p>
+               <seg rend="decorInit">T</seg>O deliver the opinions (concerning the Card and Compaſſe) of a great ſort of Sea-Matters and o<g ref="char:EOLhyphen"/>thers, even in theſe times ſuch is their knowledge, being altogether ignorant even vaine and frivolous, that I will not ſpend the time once in nominating any ſuch their knowledge, but will procéed to the matter.</p>
+            <div type="subpart">
+               <head>The Compaſſe to be rectified two wayes.</head>
+               <p>FIrſt, there is to be delivered two wayes for a mans farther knowledge, that the Compaſſe is to be rectified, as felloweth.</p>
+               <p>The Compaſſe is ſaid to be rectified when the wyer is ſet right vnder the Flower-deluce, for the Flower-deluce and his oppoſite point delivereth the true Meridian.</p>
+               <p>Alſo, the Compaſſe is ſaid to be rectified, when the Wyer is
+<pb n="2" facs="tcp:40630:3"/>ſet right vnder the Flower-deluce, the Flower-deluce and his oppoſite point, delivereth the true Mutation or Variation of the Compaſſe.</p>
+               <p>Further, there are foure opinions concerning the Compaſſe: which foure opinions and wayes conceived of the Compaſſe, be<g ref="char:EOLhyphen"/>ing rectified from the true Meridian that it is preſuppoſed to lead in, which I will give a taſt of for this preſent, and ſo leave them to more convenient places.</p>
+            </div>
+            <div type="subpart">
+               <head>The firſt Opinion of the Compaſſe.</head>
+               <p>THe moſt Abſurdeſt way of the Compaſſe, is according to flat Cards-uſed in Navigation: which ſome ſort of men (and the greateſt number hold opinion, that the Compaſſe leadeth no o<g ref="char:EOLhyphen"/>therwiſe then according to theſe uſuall Plats or Cards right ly<g ref="char:EOLhyphen"/>ned, whoſe lynes generally are paralell each to other, and that the Eaſt and Weſt of the Compaſſe leadeth in a paralell, which opi<g ref="char:EOLhyphen"/>nion is abſurd: for how can the thing that is falſe deliver the way of truth, as hereafter followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 Opinion of the Compaſſe.</head>
+               <p>This way of the Compaſſe (in déed) which is more perfect then the former (according to the judgement of Aſtronomers) is cal<g ref="char:EOLhyphen"/>led the Aſtronomicall deducture of the Compaſſe and by other ſort of men called the paradoxall Compaſſe, becauſe the lineaments are ſpirall: which ſpirall lines by ſome are called Helicall lines. This Aſtronomicall deducture (as above ſaid) ſome ſort of men hold to be principalleſt. In this judgement the Meridians have their coartation, but the Compaſſe (the Eaſt and Weſt thereof) is ſaid to lead in a paralell, therefore though néerer the truth then the former, yet abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 Opinion of the Compaſſe.</head>
+               <p>Is the demonſtrature of the Compaſſe, which is more excellent then the two former, being knowns aright: which demonſtrature of the Compaſſe, ſome ſort of men ſéeth (but with heads filled with infirmities, &amp;c.) and wanting knowledge, knoweth not the meaning thereof, and but very few vnderſtand the goodneſſe that is to be delivered thereby, yet the way of a Ship is not according to the preſent view thereof.</p>
+            </div>
+            <div type="subpart">
+               <pb n="3" facs="tcp:40630:3"/>
+               <head>The 4 Opinion of the Compaſſ.</head>
+               <p>Laſt of all (which feweſt or none know) is the onely true and excellent way, the way of the Compaſſe according to the difference never yet delivered by any, nor knowne vnto thoſe that make themſelves moſt artificialleſt.</p>
+               <p>I am now to deliver my reaſons or examples concerning theſe foure opinions (above ſaid) which are to condemne the ſmall knowledge, opinion or judgement of men, concerning them: and to juſtifie and mainetaine the good knowledge that hereafter ſhall be delivered.</p>
+            </div>
+            <div type="subpart">
+               <head>The Card and Compaſſe handled together.</head>
+               <p>WHereas, before I have delivered a taſt of the foure opini<g ref="char:EOLhyphen"/>ons concerning the Compaſſe, the firſt opinion relying onely vpon the truth of the Card, Therefore it is moſt neceſſary for me, next of all to deliver the abſurdities of the Card, or to lay the Card open in his colours, that when the truth thereof is ſéene and knowne, then that the way of the Compaſſe (according to the Card uſed in navigation) may be left, and a more true way taken how of &amp;c. Now to procéed as followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 Abſurdity.</head>
+               <p>A generall Card ſtraight or right lyned, as it is, repreſenteth, yea delivereth the whole vniverſall world at the view thereof, as a plaine flat or levell and not otherwiſe, and maintaineth a ſcale correſpondent thereunto, and how abſurd this delivery is, hereaf<g ref="char:EOLhyphen"/>ter is proved.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 Abſurdity.</head>
+               <p>This generall Card maintaineth a Compaſſe in the midſt that ſhall extend it ſelfe, and the points thereof to the extreames of the Card, and ſo delivereth courſes by one Compaſſe to ſayle to the extreames of the world, deliuered thereby if it were navigable, e<g ref="char:EOLhyphen"/>ven to any part thereof, and to returne the ſame way againe: which is abſurd, as by the demonſtrature and way of the diffe<g ref="char:EOLhyphen"/>rence following is proved.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 Abſurdity.</head>
+               <p>This Card will direct by halfe a Compaſſe made on the ſide of the Card, over the whole world, and the returne to be the ſame way, which is more abſurd.</p>
+            </div>
+            <div type="subpart">
+               <pb n="4" facs="tcp:40630:4"/>
+               <head>The 4 Abſurdity.</head>
+               <p>Yet this Card will direct farther, that is by a quarter of the Compaſſe made in one of the corners of the Card over the whole world, which will be made moſt abſurd and monſtrous by the grounds before ſpoken of.</p>
+            </div>
+            <div type="subpart">
+               <head>The 5 Abſurdity.</head>
+               <p>This Card alſo maintaineth from the Poles themſelves an Eaſt and Weſt line, a Meridian and ſeaven points of eyther ſide, whereby the North Pole delivereth from it a Southeaſt quarter and a Southweſt quarter, and the South Pole the like, which is abſurd: my reaſon to proove it to be ſo, is this, becauſe there paſ<g ref="char:EOLhyphen"/>ſeth no lynes imaginary from the Poles, but onely Meridians according to the ſpheare.</p>
+            </div>
+            <div type="subpart">
+               <head>The 6 Abſurdity.</head>
+               <p>This Card alſo maintaineth all the paralells of the Eaſt and Weſt therein, to be of one length, which is abſurd: for paralells are leſſe towards the Poles: likewiſe y Card juſtifieth ſhe para<g ref="char:EOLhyphen"/>lells to make right angles with the Meridians even to the Poles, which is abſurd, for paralells are inferior Circles vnto the Me<g ref="char:EOLhyphen"/>ridians, which are great Circles, therefore cannot make right Angles with them.</p>
+            </div>
+            <div type="subpart">
+               <head>The 7 Abſurdity.</head>
+               <p>This Card alſo maintaineth all Meridians to be paralells each to other, and thereby maketh a polar line of Eaſt and Weſt in the Pole it ſelfe as long as the Equinoctiall, which is an error of 360 degrees, or 21600 miles, which is moſt abſurd: my reaſon is this, becauſe the Pole it ſelfe is but an imaginary point.</p>
+            </div>
+            <div type="subpart">
+               <head>The 8 Abſurdity.</head>
+               <p>Again, there cannot be a right ſigne (for the way of a Ship) delivered from the plaine of a Meridian in the Card, for the deli<g ref="char:EOLhyphen"/>very of the longitude the Meridians being paralells each to other (and wreſted from their nature) as they be, neither can there be a ſecond right
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> (for the way of a Ship delivered from the Eaſt and Weſt of a Card) for the delivery of the Latitude: becauſe the paralells therein cannot deliver neither the plaine of a great Circle nor ſmall: therefore the Card abſurd.</p>
+            </div>
+            <div type="subpart">
+               <pb n="5" facs="tcp:40630:4"/>
+               <head>The 9 Abſurdity.</head>
+               <p>Likewiſe this preſuppoſed way of the Compaſſe, according to the Card delivereth vpon any point of the Compaſſe, for any Segment in Navigation a leſſe way in Longitude and Latitude then the Aſtronomicall deducture of the Compaſſe, or way vpon the difference doth but if the Longitude of this firſt way be com<g ref="char:EOLhyphen"/>pared and reckoned after the coarting of the Meridians for any ſegment in Latitude and Longitude: then it is more ſwifter in Longitude then any opinions elſe delivered of the Compaſſe: therefore abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 10 Abſurdity.</head>
+               <p>All the lynes in a Card are ſuppoſed to be Segments or pieces of great Circles, which is abſurd and falſe: for example, great Circles muſt croſſe themſelves at oppoſite points of neceſſity, and therefore cannot be paralells each to other: likewiſe I am ſure they count them not ſpirall lines, for ſpirall lines are not pa<g ref="char:EOLhyphen"/>ralell either to other.</p>
+            </div>
+            <div type="subpart">
+               <head>The 11 Abſurdity.</head>
+               <p>The Equinoctiall and Meridian, in a Card graduated as they be by even degrees, both in Longitude and Latitude, being in plano not lawfully projected, is abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 12 Abſurdity.</head>
+               <p>Likewiſe, the Card delivereth this rule for his truth, vpon what point of the Compaſſe ſoever, the points being of one quali<g ref="char:EOLhyphen"/>ty, in what Latitude or Longitude ſoever you are in like diſtan<g ref="char:EOLhyphen"/>tes for the differences of degrees in Longitude: which is abſurd, and confuted by the Aſtronomicall deducture, and by the way vp<g ref="char:EOLhyphen"/>on the difference.</p>
+            </div>
+            <div type="subpart">
+               <head>The 13 Abſurdity.</head>
+               <p>Alſo the Card delivereth this for his truth, vpon what point of the Compaſſe ſoever, the point being of one kinde, in what La<g ref="char:EOLhyphen"/>titude or Longitude ſoever: like diſtances for the raiſing or lay<g ref="char:EOLhyphen"/>ing of a degree in Latitude, which is abſurd and falſe, as ſhall be delivered by examples vpon the difference.</p>
+            </div>
+            <div type="subpart">
+               <head>The 14 Abſurdity.</head>
+               <p>This Card delivereth no truth in Longitude: nor ſo neere the truth as is to be delivered, therefore in places that
+<pb n="6" facs="tcp:40630:5"/>are diſtant from other, the difference of time in no ſort is to be de<g ref="char:EOLhyphen"/>livered thereby, therefore more abſurd, then that which will deli<g ref="char:EOLhyphen"/>ver the time more certaine.</p>
+            </div>
+            <div type="subpart">
+               <head>The 15 Abſurdity.</head>
+               <p>Whereas one Compaſſe (as before) in the midſt of the Card, the point thereof being extended to the extreames thereof, and wi<g ref="char:EOLhyphen"/>deſt there, it is as contrary to the truth as falſhood is; for the points of the Compaſſe being extended in delatation but to the Quadrant, which is 90 deg. according to the demonſtrature in <hi>plano,</hi> not lawfully projected, is abſurd.</p>
+               <p>But ſome of the points to be extended (without) or beyond the Quadrant <hi>105</hi> deg. too much, and continued in delatation, is ab<g ref="char:EOLhyphen"/>ſurd, but a halfe Compaſſe in the Eaſt or Weſt part of the Card, as the Card delivereth, ſome of which points, from his halfe Compaſſe being extended from the Quadrant in delatation 276 deg. 45 min. too much, is more abſurd. Nay a quarter of the Compaſſe delivered from one corner of the Card, as the Card de<g ref="char:EOLhyphen"/>livereth, ſome points thereof are extended in delatation beyond the Quadrant <hi>300</hi> deg. (of a great Circle) too much, which is moſt abſurd, as the <hi>15</hi> part in the Aſtronomicall deducture, and firſt part of the demonſtrature juſtifieth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 16 Abſurdity.</head>
+               <p>Whereas in this Card, the Compaſſes in the midſt, ſides or cor<g ref="char:EOLhyphen"/>ners thereof, extending their delatation and coartation according<g ref="char:EOLhyphen"/>ly beyond the quadrant, as aforeſaid, which is abſurd: yet the de<g ref="char:EOLhyphen"/>latation and coartatio<g ref="char:cmbAbbrStroke">̄</g> within the quadrant, is alſo abſurd: as for example; Prove from the center of any of the Compaſſes in the Card, at <hi>30</hi> deg, delatation, and ſee whether the degrees there, be halfe ſo big as they are in the quadrant (as they ſhould be) or no, and you ſhall find <hi>3</hi> of the deg. there, at <hi>30</hi> deg. delatation, to make but a degree in the quadrant, which is <hi>⅓</hi> part falſe: but it delive<g ref="char:EOLhyphen"/>reth at <hi>45</hi> deg. delatation <hi>2</hi> deg. there, to be <hi>1</hi> deg. on the quadrant, which delatation is <hi>15</hi> deg. falſe, or out of his due place.</p>
+            </div>
+            <div type="subpart">
+               <head>The 17 Abſurdity.</head>
+               <p>It is a great matter, how abſurd the Card is: for let a Ship in her navigation in any Longitude or latitude whatſoever, ſayle in the lyne of North-eaſt or the like points, as North-weſt and South-Weſt, before ſhe can accompliſh one Quadrant, ſhe muſt
+<pb n="7" facs="tcp:40630:5"/>vſe ſo much way in her navigation, as co<g ref="char:cmbAbbrStroke">̄</g>meth to <hi>127</hi> deg.
+<hi>15</hi> min. of a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Circle, which is
+<hi>37</hi> deg. <hi>15</hi> min. too much onely in that diſtance: but a quadrant according to the Sphere is about 90 deg. of a great Circle, which is the truth: therefore the Card abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 18 Abſurdity.</head>
+               <p>A Ship in her navigation differing in longitude according to the Card altereth the pole from the firſt place on the polar line to the mer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an on the Card which the Ship is ſaid to be in, which is abſurd, as by the <hi>18.</hi> part in the Sphere is juſtified.</p>
+            </div>
+            <div type="subpart">
+               <head>The 19. Abſurdity.</head>
+               <p>It is a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erva<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le that the Card (being ſo monſtrous) flowing with nothing but abſurd ties that one <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rror thereof being
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> myle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (as aforeſa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d) ſhould be ſo greatly <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n requeſt as it is being no life or helpe in the world <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n it to that which is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in naviga<g ref="char:EOLhyphen"/>tion: how it is poſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ble for the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſmography, Geography o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thereof to be true: ſurely in this Card the one is as true as the
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther and no tr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er therefore all falſe and
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bſurd.</p>
+               <p>So that the Compaſſe is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from the good nature it hath <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or the delivery of a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hips way, by the abſurd opinion delivered to be or received from the Card.</p>
+               <p>If I could alleadye more condemnations for the Card and the opinions of the compaſſe (being accordingly) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>et enough ſuf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceth.
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leſſe the matter in the Card and knowledge thereby received) were better: And thus I lea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Card and the judgement by it at the Compaſſe.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>The Sphericall Deſcription of the <hi>Globe,</hi> with the Aſtronomicall deducture of the Compaſſe accordingly which by ſome ſort of men, is called the paradoxall Compaſſe.</head>
+            <p>
+               <seg rend="decorInit">N</seg>O is will I procéed with the Aſtronomicall deducture of the Compaſſe: and becauſe it dependeth upon the lineaments of the Sphere which is the ground thereof, as the Card is of the Compaſſe uſed thereby in naviga<g ref="char:EOLhyphen"/>tion therfore I will entreat ſomwhat concerning both the Sphere and deducture of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> compaſſe upon it: and as there are <hi>19</hi> abſurdi<g ref="char:EOLhyphen"/>ties
+<pb n="8" facs="tcp:40630:6"/>before delivered, for the confuting or delivering the Card in his colours: ſo many parts I will touch in this Aſtronomicall de<g ref="char:EOLhyphen"/>ducture, that the difference (between them) may be ſeene. But this in briefe by the way: The Aſtronomicall deducture cleareth a way from it many abſurdities, by cearting of the Meridians (onely) it maintaineth abſurdly the Eaſt and Weſt of the Compaſſe, to lead in a paralell as herafter ſhall appeare.</p>
+            <div type="subpart">
+               <head>The 1. part.</head>
+               <p>THis whole deſcription of the world, in Globe or round forme ſpherically lyned with meridians (one being graduated) like<g ref="char:EOLhyphen"/>wiſe with paralels and ſpirall lines, which by ſome men are called Rhombes, by others called Helicall lynes, and by ſome called Pa<g ref="char:EOLhyphen"/>rado<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>all lines,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> downe with the Geographie, the ſcale thereof being the graduated meridian, which is correſpondent thereunto, is very profitable to the knowledge thereof, and confuteth the flat Card.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2. 3. and 4. part.</head>
+               <p>This Globe maintaineth a Compaſſe, being in the Zenith of the earth and water, to ertend it ſelfe according to the domon<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ra<g ref="char:EOLhyphen"/>ture in delatation to the Horizon and no farther: deviding it into <hi>32</hi> parts or points correſpondent thereunto, but maketh the way of a Ship out and home to be all one, and ſpirally according to this Aſtronomicall opinion, that the Eaſt and Weſt of the Compaſſe leadeth in a paralell is abſurd, and cauſeth great difference, which in this place and time cannot be delivered.</p>
+            </div>
+            <div type="subpart">
+               <head>The 5. part.</head>
+               <p>This Globe maintaineth the Poles of the world, to be but imaginary pricks or points, delivering or from which points pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eedeth onely meridians, which is true.</p>
+            </div>
+            <div type="subpart">
+               <head>The 6. part.</head>
+               <p>This Globe maintaineth all the paralels of Latitude therein, to be in their d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e forme, proportion, or Magnitude biggeſt neereſt the equator, and ſmalleſt neereſt the Poles diſ-allowing paralels, to make right angles with meridians, which is true.</p>
+            </div>
+            <div type="subpart">
+               <head>The 7, part.</head>
+               <p>In which Globe, likewiſe the meridians hath their delatation and Coartation, admitting no polar line, which is true.</p>
+            </div>
+            <div type="subpart">
+               <head>The 8. part.</head>
+               <p>This Globe, according to the Eaſt and weſt, leading in a Pa<g ref="char:EOLhyphen"/>ralell,
+<pb n="9" facs="tcp:40630:6"/>delivereth one right ſigne (for the way of a Ship) from the plaine of the meridian (as it ſhould) for the delivery of the longi<g ref="char:EOLhyphen"/>tude the difference reſpected, and the other right ſigne, from the plaine of the paralell for the delivery of the latitude, which is ab<g ref="char:EOLhyphen"/>ſurd: for if the plaines of a great Circle and a ſmall to deliver the place of a Ships being, agreeth not, neither is true, as the diffe<g ref="char:EOLhyphen"/>rence juſtifieth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 9. part.</head>
+               <p>The way of the compaſſe, according to this aſtronomicall deli<g ref="char:EOLhyphen"/>very, for any ſagments in navigation vpon what Point ſoever, is more ſwifter in latitude, and more flower in longitude, then the delivery vſed in navigation by the Card, delivering the point of a Ships being, by the ſignes as aforeſaid, which is abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 10. part.</head>
+               <p>This opinion of Eaſt and Weſt, leading in a paralell, delive<g ref="char:EOLhyphen"/>reth no ſagments of any ſpirall lines, to be ſagments of great cir<g ref="char:EOLhyphen"/>cles, which is abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 11. part.</head>
+               <p>The Equinoctial and meridian, in the Globe graduated as they be, by even degrees both in longituds and Latituds, being in round Globe forme, is very true.</p>
+            </div>
+            <div type="subpart">
+               <head>The 12. part.</head>
+               <p>This opinion delivereth vpon any Spirall line (of one quality) which are the points of the Compaſſe, according to this judge<g ref="char:EOLhyphen"/>ment, not like diſtances for the difference of degrées in longitude, but is different in every place betweene the equator and the poles yet not the truth, as the difference juſtifieth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 13. part.</head>
+               <p>And for this Aſtronomicall delivery by any the ſpirall points thereof, to raiſe or lay degrees in latituds: it difforsth little from thecard, which is abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 14. part.</head>
+               <p>This Globe, the meridians thereof deli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ereth or diſtinguiſh<g ref="char:EOLhyphen"/>eth it ſelfe into degres of longitude, by which degrees is delivered the difference of time betweene any two places or diſtances, yet not very true, as in the delivery of the time ſhall appeare.</p>
+            </div>
+            <div type="subpart">
+               <head>The 15. part.</head>
+               <p>As by this Globe (before) the compaſſe according to the demon<g ref="char:EOLhyphen"/>ſtrature
+<pb n="10" facs="tcp:40630:7"/>from any one place, delivereth delatation to the Horizon where it is greateſt, ſo from the Fonitor or horizon to the Nadir, all the Arches of depreſſion ſuffer coartation ſo that the interſec<g ref="char:EOLunhyphen"/>tions or croſſings of thoſe points of demonſtrature, are in the Ze<g ref="char:EOLhyphen"/>nith and his Nadir, which is true: therefore the <hi>15</hi> abſurditie in the Card proved by this to be moſt abſurd.</p>
+            </div>
+            <div type="subpart">
+               <head>The 16. part.</head>
+               <p>By this Globe a compaſſe in the Zenith thereof delivering the Azimuthes to the horizon which is at <hi>90</hi> degrées from the zenith you ſhall find theſe Azimuths at <hi>30</hi> degrées delatation, There a degrées maketh 1 degree in the horizon, and all the reſt of the Azimuthes or degrees of them, is delivered with truth, either in delatation or coartation, therefore the <hi>15</hi> abſurdity in the Card is acknowledged.</p>
+            </div>
+            <div type="subpart">
+               <head>The 17. part.</head>
+               <p>This Globe delivereth by any point of demonſtrature, <hi>90</hi> de<g ref="char:EOLhyphen"/>grees and no more to the quadrant, therefore confuteth the Card according to the <hi>17</hi> abſurdity.</p>
+            </div>
+            <div type="subpart">
+               <head>The 18. part.</head>
+               <p>This Globe maintaineth the poles of the world to continue in their places which is true.</p>
+            </div>
+            <div type="subpart">
+               <head>The 19. part.</head>
+               <p>The Coſmography, Geography and Geometry, of the Globe, is farre more perfect then that in the card, yet if the Coſmogra<g ref="char:EOLhyphen"/>phy and Geography were ſet downe according to the difference, it would be more perfect: but then there muſt be more deſcripti<g ref="char:EOLhyphen"/>ons then one: and thus I leave the Aſtronomicall deducture of the Compaſſe. This alwayes to be noted, looke what Linea<g ref="char:EOLhyphen"/>ments is ſaid to be in the Sphere of the Heavens, as meridians for the delivery of the time, and a helpe for the delivery of the Longitude the equinoctiall and all the paralels, for the delivery of the latituds, the horizon, and all the Almicanters of Altitude, for the delivery of heights, the verticall circles or Azimuthes, for horizontall diſtances, ſpirall lines according to the difference for the delivery of a Ships way and ſuch like: is imagined to be in the earth and waters correſpondent to theſe in the Heavens, for the travailers help and comfort: the conceit of which aright, is mo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> excellent.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:40630:7"/>
+            <head>Heere followeth the demonſtrature of the Com<g ref="char:EOLhyphen"/>paſſe, which is a notable knowledge and light in Navigation, being rightly conceived and uſed as it ought.</head>
+            <div type="subpart">
+               <head>The 1. part.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>N any latitude and longitude whatſoever, the demon<g ref="char:EOLhyphen"/>ſtrature of the Compaſſe repreſenting as it doth, the Zenith of the earth and water, and divideth the hori<g ref="char:EOLhyphen"/>zon, not onely into <hi>32</hi> parts, as in the <hi>2. 3.</hi> and <hi>4.</hi> ab<g ref="char:EOLhyphen"/>ſurdities of the Card is ſet downe, but alſo into <hi>360.</hi> parts, nay rather into infinit parts called verticall Circles or A<g ref="char:EOLhyphen"/>zimuths going with delatation from the Zenith or Verticall point to the horizon where the delatation is greateſt, and from this ho<g ref="char:EOLhyphen"/>rizon or Fenitor to the Nadir (as is ſaid in the
+<hi>15</hi> part of the A<g ref="char:EOLhyphen"/>ſtronomicall deducture) theſe Azimuthes or Verticall circles (in the Hemiſphere, not ſeene, being arches of depreſſion) ſuffer coarta<g ref="char:EOLhyphen"/>tion, ſo that the interſections or croſſings of theſe Azimuthes one another, is onely in the Zenith and his Nadir.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2. part.</head>
+               <p>This demonſtrature is moneable or alterable, according to a Ships differing in longitude and latitude, becauſe a Ship caristh her Zenith with her, ſo that the deviſion of the horizon according to this demonſtrature is variable, according to the diſtance (from any one place) that the Ship is remeved: &amp;c. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>confuting of the <hi>2.</hi> abſurdity of the Card.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3. part.</head>
+               <p>The deviſſon that the Zenith, horizon and Nadir hath, or is di<g ref="char:EOLhyphen"/>uided withall, is onely by almicanter circles, which otherwiſe are called circles of Altitude or height (being above the horizon) all which are paralels to the horizon, but thoſe from the Horizon to the Nadir, notwithſtanding paralell to the Horizon are circles of depreſſion, any one of which Almicanters, may be delivered upon any degree or minute of the height above the Horizon, likewiſe taken (in ſome working ſpherically) in profundity and depth un<g ref="char:EOLhyphen"/>der the Horizon.</p>
+            </div>
+            <div type="subpart">
+               <pb n="12" facs="tcp:40630:8"/>
+               <head>The 4. part.</head>
+               <p>This demonſtrature delivereth upon any Azimuth whatſoever, the diſtance from the Zenith to the Horizon to be but <hi>90</hi> degrées.</p>
+            </div>
+            <div type="subpart">
+               <head>The 5. part.</head>
+               <p>The Eaſt and weſt of this demonſtrature (from the zenith) <hi>90</hi> degrees in longitude, toucheth the Equinoctiall, in the horizon at oppoſite points.</p>
+            </div>
+            <div type="subpart">
+               <head>The 6. part.</head>
+               <p>Now the quality of the Globe is this, the pole thereof being elevated or ſet to his purpoſed latitude in his horizon, according to this demonſtrature, delivereth the obliquitie of the Sphere, which in truth is a confuting of the Eaſt and weſt to lead in a paralell: as for example.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 Example.</head>
+               <p>The Globe ſet to the paralell of <hi>50</hi> degrees north latitude, then a perpendienler lyne imagined to deſcend, from this Zenith of <hi>50</hi> degrees North latitude, delivereth his Nadir to be in <hi>50</hi> degr. ſouth latitude, ſo that it delivereth the oppoſite part of the paralel to be from the Nadir or the arch of the meridian, contayned be<g ref="char:EOLhyphen"/>tweene the oppoſite part of the paralell and the nadir, to be a <hi>100</hi> degrees oblique or different, and from the place of being in the zenith upon the meridian, to the opoſite part of the paralell direct<g ref="char:EOLhyphen"/>ly, is but <hi>80</hi> deg. of a great circle, ſo that this oppoſite part of the paralells is
+<hi>10</hi> deg. aboue the Horizon, which is oblique to the ze<g ref="char:EOLhyphen"/>nith and Nadir, alſo <hi>90</hi> degr. North from the eaſt and weſt of the demonſtrature, in the equinoctial. So that a Ship being in (or ha<g ref="char:EOLhyphen"/>ving) this zenith before ſpoken of, the perpendicularity of the ſhip, being in this Zenith and Nadir line, and the oppoſite part of this Paralell ſo oblique unto her, as before how is it poſſible, for the Eaſt and weſt of the compaſſe to lead in a paralell.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2. Example.</head>
+               <p>Likewiſe when the ſhip, the right line of her caping in the verti<g ref="char:EOLhyphen"/>call circle of eaſt and weſt extended both the wayes, croſſeth the e<g ref="char:EOLhyphen"/>quator at oppoſite points, <hi>90</hi> degr. different in longitude, and the Ship being a ſegment of that great circle, and no ſagment of a smal circle as paralels are how is it poſſible, then for the eaſt and weſt to lead in a paralell; it is not poſſible as the way of the diffe<g ref="char:EOLhyphen"/>rence juſtifieth. &amp;c.</p>
+            </div>
+            <div type="subpart">
+               <pb n="13" facs="tcp:40630:8"/>
+               <head>The third Example.</head>
+               <p>Being in the paralell of <hi>80</hi> degrees North latitude,<note n="*" place="margin">If the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſayle upo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verticall <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> of Eaſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> paſſe doth
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> whé y<hi rend="sup">e</hi> ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gins its co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> but as the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is guided b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> magnetica<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Wiers or <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> dle, ſo tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Line or its <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> makes eq<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Angles wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> very mag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> call Merid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> The way
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſhip leadin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Eaſt o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> doth deſcri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> magnetica<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ralell.</note> a perpendi<g ref="char:EOLhyphen"/>culer line delivereth the Nadir to be in
+<hi>80</hi> deg. S. latitude, ſo that the arch of the meridian contayned betweene the nadir and the op<g ref="char:EOLhyphen"/>poſite part of the paralell is <hi>160</hi> degrees.</p>
+               <p>But the arch of the meridian, contained betweene the point of be<g ref="char:EOLhyphen"/>ing, and the oppoſite part of the paralell is but <hi>20</hi> degrees.</p>
+               <p>So that the oppoſite part of the paralell is <hi>70</hi> degrees above the horizon: and likewiſe <hi>90</hi> deg. North from the eaſt and weſt, accor<g ref="char:EOLhyphen"/>ding to the demonſtrature in the equinoctiall: ☞ Here you ſee the obliquity of the oppoſite part of the paralell to the zenith, and his nadir; ſhewing how unnaturall it is to deliver the way of a Ship, leading in the eaſt and weſt to deſcribe a paralell.</p>
+               <p>And whereas before I have delivered the Eaſt and weſt of the demonſtrature of the Compaſſe in the horizon, and that the north and ſouth is likewiſe very plain to be delivered; therefore I will omit them: and will give examples of the demonſtrature in the la<g ref="char:EOLhyphen"/>titude <hi>51</hi> degrées <hi>30</hi> min. and <hi>80</hi> degrées North latitude, only of the north-eaſt, ſouth-eaſt, ſouth-weſt, and north-weſt to the Hori<g ref="char:EOLhyphen"/>zon, as bereafter followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>North-eaſt in the Latitude 51 Degrees 30 Minutes.</head>
+               <p>FRom our point of being in our Meridian, which is the begin<g ref="char:EOLhyphen"/>ning of our longtitude, our Zenith being in the paralell of <hi>51</hi> degrees <hi>30</hi> min. north latitude: I am to demonſtrate
+<hi>3</hi> ſagments of a great circle contayning <hi>30</hi> degrees a peece by the demonſtra<g ref="char:EOLhyphen"/>ture north-eaſt: the end of which firſt ſagment of <hi>30</hi> degrees, ſhall touch the Meridian in longitude Eaſt-ward, <hi>54</hi> degrees from the firſt, and there likewiſe ſhall touch the paralell of north latitude <hi>64.</hi> degrees.</p>
+               <p>And the end of the ſecond ſagment of <hi>60</hi> degrees in longitude ſhall touch the
+<hi>105</hi> degrees <hi>30</hi> min. or Meridian in longitude eaſt-ward from the firſt, and there likewiſe toucheth the <hi>50.</hi> deg. <hi>30.</hi> min. paralell north.</p>
+               <p>Likewiſe the end of the third ſagment, at <hi>90</hi> degrees in longi<g ref="char:EOLhyphen"/>tude, ſhall touch the <hi>128</hi> degree or Meridian in longitude Eaſt-ward from the firſt, and there likewiſe toucheth the <hi>26</hi> degrée
+<pb n="14" facs="tcp:40630:9"/>ward <hi>13</hi> min. paralell North: alſo it there toucheth the horizon
+<hi>45</hi> deg. either from the cardines Eaſt or North.</p>
+            </div>
+            <div type="subpart">
+               <head>North-weſt.</head>
+               <p>Likewiſe the demonſtrature of the North-weſt cutteth the Me<g ref="char:EOLhyphen"/>ridians and paralels in longitude Weſt-wards as the demonſtra<g ref="char:EOLhyphen"/>ture of North-eaſt cutteth them Eaſt-wards, onely that it cutteth the Horizon <hi>45</hi> deg. either from the cardines Weſt or North.</p>
+            </div>
+            <div type="subpart">
+               <head>South-eaſt in the ſame Latitude 51 deg. 30 min.</head>
+               <p>IN our place of being (as aforeſaid) I am to demonſtrate thrée ſagments of a great Circle containing <hi>20</hi> deg. a péece by the de<g ref="char:EOLhyphen"/>monſtrature South-eaſt, the end of which firſt ſagment of <hi>30</hi> deg. ſhall touch the <hi>23</hi> deg. <hi>30</hi> min. or Meridian in longitude Eaſt-ward from the firſt and there likewiſe toucheth the <hi>27</hi> degrees <hi>20</hi> min. paralell North.</p>
+               <p>And the end of the ſecond ſagment of <hi>60</hi> deg. in Longitude. wall touch the
+<hi>3</hi> deg. <hi>40</hi> min. or meridian in longitude Eaſt-ward fro<g ref="char:cmbAbbrStroke">̄</g> the firſt and there likewiſe toucheth in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> deg. <hi>25</hi> min. N. latitude.</p>
+               <p>Likewiſe the end of the third ſagment at <hi>90</hi> deg in Longitude, ſhall touch the
+<hi>51</hi> degrée <hi>40</hi> min. or meridian, in Longitude eaſt-ward from the firſt and there likewiſe toucheth the <hi>26</hi> deg. <hi>15</hi> m. paralell ſouth: Alſo there toucheth the Horizon <hi>45</hi> degrees either from the cardines Eaſt or ſouth.</p>
+            </div>
+            <div type="subpart">
+               <head>South-weſt.</head>
+               <p>Likewiſe the demonſtrature of the South-weſt toucheth the meridians and paralell in longitude weſt-ward as the demonſtra<g ref="char:EOLhyphen"/>ture of ſouth-eaſt toucheth them eaſt-ward, onely that it cutteth the horizon <hi>45</hi> deg. either from the cardines ſouth or weſt.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Examples in the Paralell of 80 deg. North latitude beginning with the firſt example of North-eaſt in the north latitude 8 deg.</head>
+            <p>FRom our point of being in our meridian which is the begin<g ref="char:EOLhyphen"/>ning of our longitude our zen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th being in the paralel of <hi>80.</hi> deg. north latitude I am to demonſtrate; ſagments of a great circle, containing <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</hi> deg. apéece by the demonſtrature north-eaſt the end of which firſt ſagment of <hi>30</hi> degrées, ſhall touch the meridian in longitude eaſt-ward <hi>119</hi> degrees <hi>30</hi> minutes from the firſt and there likewiſe ſhall
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the paralell of North latitude <hi>60</hi> de<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r.</p>
+            <p>
+               <pb n="15" facs="tcp:40630:9"/>And the end of the ſecond ſagment. <hi>160.</hi> deg. in longitude, wall touch the <hi>130.</hi> deg. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. min. or meridian in longitude eaſt-ward fro<g ref="char:cmbAbbrStroke">̄</g> the firſt, &amp; there likewiſe toucheth the <hi>36.</hi> deg.
+<hi>45.</hi> mi. paralel north.</p>
+            <p>Likewiſe t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t end of the <hi>3.</hi> ſagment at <hi>90.</hi> deg. in Longitude ſhall touch the <hi>134</hi> deg. <hi>30</hi> min. or meridian in longitude eaſt-ward from the firſt &amp; there likewiſe toucheth the <hi>7</hi> paralell north Alſo there toucheth the horizen <hi>45</hi> deg. either from the cardines eaſt or north.</p>
+            <div type="subpart">
+               <head>North-weſt.</head>
+               <p>Likewiſe, the demonſtrature of north-weſt cutteth the meridi<g ref="char:EOLhyphen"/>ans and paraellls in longitude weſt-ward, as the demon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rature of north eaſt, cutteth them eaſt-ward onely, that it cutteth the ho<g ref="char:EOLhyphen"/>rizon <hi>45</hi> deg. either from the cardines weſt or north.</p>
+            </div>
+            <div type="subpart">
+               <head>Example of the South-eaſt in the ſame Latitude 8. deg.</head>
+               <p>IN our place of of being, (as aforeſaid) I am to demonſtrate thrée ſagments of a great circle, containing <hi>30</hi> deg. apéece, by the de<g ref="char:EOLhyphen"/>monſtrature ſouth-eaſt, the end of which firſt ſagment of <hi>30</hi> deg. ſhall touch the <hi>35</hi> deg.
+<hi>40</hi> mi. or meridian in longitude eaſt-ward from the firſt and there likewiſe toucheth the <hi>52</hi> degrée <hi>10</hi> min. paralell north.</p>
+               <p>And the end of the ſecond ſagment of <hi>60</hi> deg. in longitude wall touch the
+<hi>41</hi> degrees <hi>40</hi> min. or meridian in longitude Eaſtward from the firſt, and there likewiſe toucheth the <hi>22</hi> degrees
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> min. paralell north.</p>
+               <p>Likewiſe, the end of the third ſagment at <hi>90</hi> deg. in longitude wall touch the
+<hi>45</hi> deg. <hi>30</hi> min. or meridian in longitude eaſtward from the firſt, and there likewiſe toucheth the <hi>7</hi> paralell South. Alſo there tuecheth the horizon <hi>45</hi> deg. either from the cardines Eaſt or ſouth.</p>
+            </div>
+            <div type="subpart">
+               <head>South-weſt.</head>
+               <p>Likewiſe the demonſtrature of ſouth-weſt, cutteth the meri<g ref="char:EOLhyphen"/>dians and paralells in longitude weſtward, as the demonſtrature of the ſouth-eaſt cutteth them eaſtward, onely that it cutteth the horizon <hi>45</hi> deg. either from the cardines ſouth or weſt.</p>
+               <p>And as for the arches of depreſſion, from the horizon or ſenitor to the nadir of theſe points before ſpoken of, the delivery of them is even as eaſie as the former, and ſo is the arch of altitude, or arch of depreſſion upon any Azimuth whatſoever. Onely this
+<pb n="16" facs="tcp:40630:10"/>following to be reſpected as a preparative: before I deliver any nice examples according to the difference, it is neceſſary for me to explain in a more familiar ſort (at large) ſome part of the diffe<g ref="char:EOLhyphen"/>rence onely according to the demonſtrature, for the more confu<g ref="char:EOLhyphen"/>ting of the Card, and the opinion holden thereof for the way out and home to be all one. It is delivered in the <hi>15</hi> abſurdity of the Card, that upon ſome points of the Compaſſe, the Card delivereth a way outward, to be <hi>390</hi> degrées of a great circle, and to returne homeward (to the firſt place) againe, the like diſtance upon the ſame line, which ſhall be proved moſt falſe by the examples follo<g ref="char:EOLhyphen"/>wing: which examples ſhall be from the latitude of <hi>50</hi> degr. and from the firſt example, as before in the latitude
+<hi>51</hi> degrées <hi>30</hi> min. yet theſe deliver not the truth neither, as by examples upon the difference, hereafter follow.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 Example in North Latitude 50 deg.</head>
+               <p>IN which latitude, our zenith or place of being in one meridian, where we make our beginning of longitude and place of depar<g ref="char:EOLhyphen"/>ture; I am now to deliver from this our zenith or place of being, the demonſtrature of north-weſt for one ſagment of <hi>30</hi> degrées in longitude: which ſagment end of <hi>30</hi> degr. North-weſt, there cut<g ref="char:EOLhyphen"/>teth the <hi>11</hi> degr. <hi>30</hi> minutes or meridian weſtward in longitude, and the <hi>63</hi> degree paralell north.</p>
+               <p>Our Zenith now being altered and the latitude <hi>63</hi> degrées as aforeſaid, we will make proofe to returne back againe to our firſt place by the line ſouth-eaſt the like ſagment of <hi>30</hi> degrées in lon<g ref="char:EOLhyphen"/>gitude, where this ſagment end cutteth the
+<hi>26</hi> degree <hi>20</hi> minutes or meridian in longitude eaſtward, and there likewiſe cutteth the <hi>37</hi> degree <hi>40</hi> minutes paralell north.</p>
+               <p>So that this line of north-weſt extended to <hi>30</hi> degrees as afore<g ref="char:EOLhyphen"/>ſaid, and from thence returning ſouth-eaſt to <hi>30</hi> degrees likewiſe there is difference in longitude weſtward, from the firſt meridi<g ref="char:EOLhyphen"/>an or place of departure <hi>25</hi> degrées <hi>10</hi> minutes or meridians, and in latitude ſouthward from the firſt <hi>12</hi> deg. <hi>20</hi> minutes.</p>
+               <p>Here you ſée the difference of the way out and home, onely for <hi>30</hi> degrees according to the demonſtrature, and only for the lines of northweſt and ſoutheaſt, the reſt of the points, hath their like difference in their kind.</p>
+            </div>
+            <div type="subpart">
+               <pb n="17" facs="tcp:40630:10"/>
+               <head>The 2. example in north Latitude 51 deg. 30 min.</head>
+               <p>I Am now to deliver from this our zenith or place of being, the demonſtrature of the northeaſt to <hi>90</hi> degr. which line of north-eaſt there cutteth the <hi>128</hi> degree or meridian in longitude eaſt-ward from the firſt, and there likewiſe cutteth the <hi>26</hi> deg. <hi>15</hi> mi<g ref="char:EOLhyphen"/>nutes paralell north, as in the demonſtrature is delivered.</p>
+               <p>Our Zenith now being altered, and in the latitude <hi>26</hi> degr. <hi>15</hi> minutes as before ſaid, we will make a proofe to return back again to the firſt place, by the demonſtrature ſouth-weſt to <hi>90</hi> degr. where this line of ſouth-weſt cutteth but the <hi>65</hi> degr. <hi>30</hi> minutes meridian in longitude weſtward and there likewiſe cutteth the <hi>39</hi> degree <hi>30</hi> minutes paralell ſouth. So that this line of north-eaſt extended to <hi>90</hi> degrees as aforeſaid, and from thence returning ſouthweſt to <hi>90</hi> degr. likewiſe, there is difference in longitude eaſt-ward from the firſt, <hi>62</hi> degrees <hi>30</hi> minutes, and in latitude ſouthward from the firſt
+<hi>91</hi> deg.</p>
+               <p>Here you ſee alſo the difference of the way out and home, only for <hi>90</hi> degr. according to the demonſtrature, and only for the lines of North-eaſt and ſouth-weſt, and all the reſt of the points is the like in their kind. And ſo I leave the demonſtrature.</p>
+            </div>
+            <div type="subpart">
+               <head>Now will J deliver Example worthy the noting, of the way of the Compaſſe according to the difference.</head>
+               <p>THe Eaſt or weſt of that Compaſſe, rectified to the true meri<g ref="char:EOLhyphen"/>dian upon the difference, maketh a ſpirall line in delatation to the equinoctiall fro<g ref="char:cmbAbbrStroke">̄</g> what paralell ſoever, by ſagments (of great circles) correſpondent for this purpoſe: which ſagments maketh right angles with the meridians, and which ſagments delivereth a right ſigne from the plaine of the verticall circle of eaſt &amp; weſt for the way of a Ship in her navigation, and the meridian accor<g ref="char:EOLhyphen"/>ding to this difference delivereth the other. This part of the dif<g ref="char:EOLhyphen"/>ference only confuteth the generall Card and the lines of incli<g ref="char:EOLhyphen"/>nation, with the Geography of the Globe.</p>
+               <p>This difference, the eaſt and weſt thereof delating as afore<g ref="char:EOLhyphen"/>ſaid, ruleth notwithſtanding the variation of the Compaſſe, ge<g ref="char:EOLhyphen"/>nerally ſpoken of, as for example: the Compaſſe here with us at <hi>London,</hi> is ſet at halfe a point variation Eaſtward, where it ſhould be <hi>10</hi> degrees <hi>38</hi> minutes <hi>45</hi> ſeconds by my owne obſer<g ref="char:EOLhyphen"/>vations,
+<pb n="18" facs="tcp:40630:11"/>(which was made in the yeere 1586.) which maketh the weſt to be halfe a point to the north-ward of the weſt: therefore in go<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng from <hi>Silly</hi> (which is in latitude <hi>50</hi> degrées <hi>15</hi> minutes or there abouts) weſt by the Compaſſe (which is in truth weſt half north) with Cape
+<hi>Race,</hi> in <hi>New-found-land</hi> the places diſtant ſome <hi>600</hi> leagues from other cauſeth a falling more ſoutherly into the latitude <hi>46</hi> degr. <hi>30</hi> minutes or thereabouts, which ſheweth the way of the difference to rule in this diſtance.</p>
+               <p>And by a Compaſſe rectified to the truemeridian that is a Com<g ref="char:EOLhyphen"/>paſſe that the north and ſouth thereof, delivereth or pointeth ac<g ref="char:EOLhyphen"/>cording to that true meridian of <hi>Silly</hi> on which meridian is deli<g ref="char:EOLhyphen"/>vered the arch of altitude or almicanter of the Sunnes height at n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne, by which or ſuch Compaſſe, Cape
+<hi>Race</hi> heareth from <hi>Silly</hi> due weſt and by north and there toucheth the paralell of north la<g ref="char:EOLhyphen"/>titude <hi>46</hi> degrées <hi>30</hi> minutes, likewiſe toucheth the meridian in longitude weſtward from <hi>Silly</hi> the <hi>45</hi> degrées <hi>40</hi> minutes accor<g ref="char:EOLhyphen"/>ding to the coarting of the meridians in this diſtance.</p>
+               <p>And to ſpeake the truth, in this diſtance there is but litle or no<g ref="char:EOLhyphen"/>variation of the Compaſſe to be reſpected for the compaſſe at <hi>Silly</hi> ſet at the whole variation as it ought to be, yet in ſayling by that compaſſe, you runne ſome <hi>400</hi> leagues before the north and ſouth points thereof, delivereth the true meridian: and in ſayling the o<g ref="char:EOLhyphen"/>ther <hi>200</hi> leagues, the compaſſe is varied weſtward a point and a halfe or there abouts, which is no more then will anſwer the va<g ref="char:EOLhyphen"/>riation eaſtward, as before, ſo that in this diſtance, the nutation of the Compaſſe, eaſtward, &amp; weſtward, conſidered aright, is as no<g ref="char:EOLhyphen"/>thing to be reſpected, (but the one ſet againſt the other,) as by the examples following is proved.</p>
+            </div>
+            <div type="subpart">
+               <head>The firſt Example.</head>
+               <p>Let a compaſſe be rectified to the nutation and ſayle from <hi>Silly</hi> therewithall to Cape <hi>Race,</hi> weſt: &amp; when you come on the coaſt of <hi>Newfoundland</hi> you ſhall be delated from the paralell of <hi>Silly,</hi> one<g ref="char:EOLhyphen"/>ly according to the difference, and not otherwiſe.</p>
+            </div>
+            <div type="subpart">
+               <head>The ſecond Example.</head>
+               <p>Let the compaſſe be ſet at halfe a point nutation, as moſt com<g ref="char:EOLhyphen"/>monly it is and ſayle by the Compaſſe from <hi>Silly</hi> weſt with Cape <hi>Race,</hi> and you wall perforce (keeping that courſe directly) fall into more ſoutherly latitude, which is into <hi>46</hi> degrées <hi>30</hi> min.
+<pb n="19" facs="tcp:40630:11"/>or thereabouts, according to the difference, and not otherwiſe.</p>
+            </div>
+            <div type="subpart">
+               <head>The third Example.</head>
+               <p>Let the Compaſſe be rectified to the true meridian, and ſayle by that Compaſſe from
+<hi>Silly</hi> weſt with; Cape <hi>Race</hi> and you ſhall likewiſe fall into the latitude
+<hi>44</hi> degr. or thereabouts, according to the difference.</p>
+               <p>And as for this way (aboue ſaid) is delivered a delating from the paralell in going weſt: ſo likewiſe in returning eaſt fro<g ref="char:cmbAbbrStroke">̄</g> thene againe, you ſhall likewiſe delate from that paralell againe, accor<g ref="char:EOLhyphen"/>ding to the difference: which delivery overthroweth the whole Card.</p>
+               <p>Againe, looke how the difference of the eaſt and weſt ruleth in the diſtance and differedce in longitude (as aforeſaid) ſo in any o<g ref="char:EOLhyphen"/>ther diſtance and difference in longitude, it is likewiſe to be reſ<g ref="char:EOLhyphen"/>pected. Alſo this difference of the eaſt and weſt, is the ground fro<g ref="char:cmbAbbrStroke">̄</g> whence the difference is delivered, for all the reſt of the points of the Compaſſe.</p>
+               <p>So that you ſee, this way upon the difference, delivereth way outward to any place, different unto the way homeward, being not both alike, as by the examples of the north-eaſt, and return<g ref="char:EOLhyphen"/>ing ſouth-weſt: likewiſe of the north-weſt, and returning ſouth-eaſt, as heereafter appeareth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 part of the 1 example from the Equator.</head>
+               <p>Being in the Equinoctiall in any one meridian, I will there make my beginning of longitude: from which equator and meri<g ref="char:EOLhyphen"/>dian of longitude, I will deliver the line of inclination, northeaſt continuing it to the latitude <hi>75</hi> degr. <hi>6</hi> minutes <hi>14</hi> ſeconds accor<g ref="char:EOLhyphen"/>ding to the difference.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 part of the 1 Example.</head>
+               <p>The line of the north-eaſt continued to the latitude <hi>75</hi> degrees <hi>6</hi> minutes
+<hi>14</hi> ſeconds, according to the difference, endeth in the longitude <hi>131</hi> degrees from the firſt, reckoned according to the meridians in this diſtance coarted.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 part of the 1. Example.</head>
+               <p>Being in the latitude <hi>75</hi> degrees <hi>6</hi> minutes <hi>14</hi> ſeconds, and in the longitude <hi>131</hi> degrees as aforeſaid, I am now to returne back againe by the line of inclination, ſouth weſt to the Equi<g ref="char:EOLhyphen"/>noctiall.</p>
+            </div>
+            <div type="subpart">
+               <pb n="20" facs="tcp:40630:12"/>
+               <head>Concluſion of the 1 Example.</head>
+               <p>Being returned to the Equinoctiall as aforeſaid, I doe
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd the length of the line of inclination ſouth-weſt homeward, to be ſhor<g ref="char:EOLhyphen"/>ter then the line of north-eaſt outward, by <hi>130</hi> leagues, and I am in longitude eaſtwerd from the firſt place on the Equinoctiall <hi>70</hi> leagues, therefore the way out and home not all one.</p>
+            </div>
+            <div type="subpart">
+               <head>Another Example North latitude 50 degrees.</head>
+               <p>I ſayle north-weſt <hi>50</hi> leagues, at the <hi>50</hi> leagues end I have alte<g ref="char:EOLhyphen"/>red my longitude from the firſt, <hi>2</hi> degrées <hi>38</hi> minutes, and my la<g ref="char:EOLhyphen"/>titude
+<hi>1</hi> degrée <hi>40</hi> minutes.</p>
+               <p>I returne back againe ſouth-eaſt <hi>50</hi> leagues, and being retur<g ref="char:EOLhyphen"/>ned, I find my ſelfe in leſſe longitude or weſtward from the firſt, <hi>3</hi> minutes, and in latitude more then the firſt <hi>6</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>Another Example in the North latitude 60 degrees.</head>
+               <p>I ſayle north-weſt <hi>50</hi> leagues, at this ſagment end, my longi<g ref="char:EOLhyphen"/>tude from the firſt is <hi>3</hi> degrées <hi>30</hi> minutes, and latitude from the firſt <hi>1</hi> degree <hi>50</hi> minutes, I returne back againe ſouth-eaſt <hi>50</hi> leagues, and being return'd, I find my ſelfe in leſſe longitude or weſtward from the firſt, <hi>5</hi> minutes, and in latitude more then the firſt <hi>10</hi> minutes.</p>
+               <p>And for the more confuting of the way out and home to be all one, and the more juſtifying the delating from the paralell to be true, I will deliver ſome more examples upon the eaſt, for a ſag<g ref="char:EOLhyphen"/>ment of <hi>20</hi> leagues, in the latitude <hi>51</hi> degrees <hi>30</hi> minutes, and
+<hi>75</hi> degrees, delivering the horizontall diſtance betweene the eaſt (according as is ſaid) to lead in a paralell, and the way of the eaſt according to the difference, as followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>In Latitude 51 deg. 30 minutes, my firſt place.</head>
+               <p>From any one meridian of longitude, I take a ſagment of the paralell in this latitude of
+<hi>20</hi> leagues, preſuppoſed by ſome to be Eaſt from the firſt place: and againe, I doe depart from my firſt place of being <hi>20</hi> leagues eaſtward according to the difference: now at this <hi>20</hi> leagues end, I am delated from the paralell accor<g ref="char:EOLhyphen"/>ding to the way upon the difference, which maketh my place (now of being) to heare from the firſt place, two Azimuthes, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> more ſoutherly.</p>
+            </div>
+            <div type="subpart">
+               <head>As for Example.</head>
+               <p>To explaine it more briefly, I imagine one lyne from the firſt
+<pb n="21" facs="tcp:40630:12"/>place eaſt, according to the paralell <hi>20</hi> leagues: imagine another line from the firſt place Eaſt by the Compaſſe, according to the way upon the difference: now the horizontall diſtance betweene theſe two lines at <hi>20</hi> leagues end, from the firſt place, ſhalbe (as before) two Azimuths <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>In the latitude <hi>75</hi> my firſt place and meridian of longitude, I take a ſagment of the paralell in this latitude, of <hi>20</hi> leagues, pre<g ref="char:EOLhyphen"/>ſuppoſed likewiſe by many to be Eaſt from the firſt place: and a<g ref="char:EOLhyphen"/>gaine, I doe depart from my firſt place of being
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leagues eaſt, according to the way upon the difference: now at this twenty leagues end, my horizontall diſtance betweene my place of being, and place (as aforeſaid) on the paralell, from the firſt place, in <hi>3</hi> azimuths
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>Likewiſe this way of the difference delivereth upon any Azie<g ref="char:EOLhyphen"/>muth, or point of Compaſſe, ſagments of great Circles, different from other, correſpondent as they ought to bee for the difference in longitude as hereafter by thrée examples of the North north-weſt following appeareth, which confuteth the <hi>12</hi> abſurdity of the Card.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Three Example of the North North weſt, for the difference of the length of the Sagments in longitude from the Equinoctiall, to 80 degrees in latitude, as followeth.</head>
+            <div type="subpart">
+               <head>The firſt Example from the Equator.</head>
+               <p>BEing in the Equinoctiall in one meridian, the ſagment of N. north-weſt to reach to the next Meridian which is one de<g ref="char:EOLhyphen"/>gree in longitude, is in length <hi>52</hi> leagues <hi>⅓.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The 2 Example from 40 deg. of latitude.</head>
+               <p>Being in <hi>40</hi> degr. of latitude, and in one Meridian, the ſag<g ref="char:EOLhyphen"/>ment of north north-weſt, to touch the next meridian, is in length <hi>17</hi> leagues <hi>⅓.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The 3 Example from 80 degrees of Latitude.</head>
+               <p>Being in 80 degrees of Latitude, and in one meridian, the ſag<g ref="char:EOLhyphen"/>ment of north north-weſt, to touch the next meridian, is in length <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> leagues
+<hi>⅔.</hi>
+               </p>
+               <p>Alſo, this way of the difference delivereth upon any Azimuth or point of the compaſſe, ſagments of great circles, different from
+<pb n="22" facs="tcp:40630:13"/>other, for the laying or raiſing of a degree in latitude whatſoever, as by
+<hi>3</hi> examples of the weſt, north weſt following appeareth, which confuteth the
+<hi>13</hi> abſurdity of the card.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 example from the Equator.</head>
+               <p>I Being in the equinoctiall, am required to deliver a ſagment of the weſt north weſt, onely to raiſe a degree in latitude, which according to the difference is <hi>52</hi> leagues and
+<hi>⅔.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>The 2 example from 40 deg. of Latitude.</head>
+               <p>I being in <hi>40</hi> degrees of latitude the ſagment of weſt northweſt to raiſe a deg. in latitude upon the difference is <hi>56</hi> leagues.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 example from 80 deg. of Latitude.</head>
+               <p>I being in <hi>80</hi> degrees of latitude the Segment of a weſt north-weſt, to raiſe a deg. in latitude upon the differ once is <hi>60</hi> leagues.</p>
+               <p>And thas will I leave the way of the Compaſſe upon the diffe<g ref="char:EOLhyphen"/>rence for this time.</p>
+               <p>And becauſe the variation, or nutation concerneth the compaſſe and is a thing delivered in print, meant belike to ſome purpoſe: therefore I will touch this variation, or nutation, in ſome few words as hereafter followeth.</p>
+               <p>If a man for his delivery of the variation in print, would ob<g ref="char:EOLhyphen"/>ſerve by a needle touched by ſome, who maketh the common or or<g ref="char:EOLhyphen"/>dinary Compaſſes, I take it, preciſe fellowes, would ſoone be deli<g ref="char:EOLhyphen"/>vering forth, that the variation ſo ſet in print, were wide from the truth.</p>
+               <p>Becauſe with ſome men in the touching of a Needle, or Com<g ref="char:EOLhyphen"/>paſſe, though the ſtone they touch withall, be not, the beſt, neither ſhall an inch in bredth of the north part of that ſtone, breake any ſquare with them, by whoſe compaſſes many time ſhipping at the Seas be indangered.</p>
+               <p>It were better for a man for the ſecurity of his charge, or that purpoſed to ſet downe the variation in print, to take a needle touched by a better ſtone and a more perfect man to handle the touching thereof: truely when <hi>Robert Norman</hi> dyed (who had a good ſtone) Sea man had a great loſſe, yet Maiſter <hi>Mullinux</hi> of <hi>Lambeth,</hi> who having a better ſtone was as carefull &amp; as preciſe in hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> concerning the touching of Needles, &amp; Compaſſes, as over Maiſter <hi>Norman</hi> was.</p>
+               <p>
+                  <pb n="23" facs="tcp:40630:13"/>Notwithſtanding the variation (by ſuch a good Néedle) ſet down in print and delivered as a generall thing,<note n="*" place="margin">This
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> to paſſe
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> miſtakin g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> true place <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Poles c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Stone, f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Maſter G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> brand, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thers with
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> obſerving
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> variation
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> two ſevera<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Needles to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ed with tw<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> verall Sto<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> found the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> riation to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the ſame,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the like I
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſeene befor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſince. H.B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> would bée but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſted at: and made a thing indéed that a man might ſpend much time to no purpoſe and leſſe edifying to the Seamen as ſome have done: my reaſon is this, becauſe this Stone (though a notable one) and I have not ſéene a better, and good to make abſervations withall to be kept to a mans ſelfe, or out of print or for the amplyfying of ſome note in writing: ☞ It cannot deliver the variation of an<g ref="char:EOLhyphen"/>other Stone; for in truth the Variations delivered by many ſtoues are different: you ſhall not have two Stones alike quali<g ref="char:EOLhyphen"/>ted, or that will deliver one or a like Variation, but the variati<g ref="char:EOLhyphen"/>on of every ſtone differeth from other: there cannot generally be ſet downe a certaine variation for any one place, which let ſuffice for this time.</p>
+               <p>Therefore, that man that was conceited to ſet the Variati<g ref="char:EOLhyphen"/>on in print, as a generall thing: though it were my ſelfe, all things to nothing, I would there in my deliverie, likewiſe hee condent<g ref="char:EOLhyphen"/>ning all mens knowledge ſaving my owne, to juſtifie my doings.</p>
+               <p>But to the matter, the variation or nutation of the compaſſe as it ſhall at any time or place be found, is a thing to be noted, yet my delivery is of it, that it is not ſurpaſſing all other knowledge, nei<g ref="char:EOLhyphen"/>ther the overthrow of good knewledge, neither will I accept of it as a thing notable above all the reſt, my reaſon is this, becauſe the way upon the difference, being more excellent, over ruleth it, which indeed they impute to variation, which is untrue: and thus will I leave the nutation of the Compaſſe.</p>
+               <p>And whereas before in my delivery of the nutation, I had for<g ref="char:EOLhyphen"/>gotten to give a taſt of the error, which is likewiſe ſet in print, and conceiveth the nice delivery of the ſaid nutation: I thought it now therefore good (though late) not to overpaſſe it but to give knowledge thereof: it is ſaid that the middle point betwéene any two Azimuthes obſerved upon equall elevations in forenoone and afternoone, is the true Meridian.</p>
+               <p>For the confuting hereof I will deliver you an example in the north Latitude <hi>51</hi> degrées <hi>32</hi> minutes as followeth.</p>
+               <p>The Sun being in her ſwift declination, in or néere the Equa<g ref="char:EOLhyphen"/>nor, I purpoſe to make two obſervations: the former obſervation to be <hi>2</hi> min, before <hi>8</hi> of the clock in the forenoone, the Almican<g ref="char:EOLhyphen"/>ter
+<pb n="24" facs="tcp:40630:14"/>delivered then by the center of the Sun, being <hi>18</hi> deg. in eleva<g ref="char:EOLhyphen"/>tion, &amp; the horizontall diſtance eaſtward from the true meridian delivered by the Azimuth of the Sunne to be <hi>66</hi> degr. <hi>38</hi> min.</p>
+               <p>The ſecond obſervation in the afternoone, the Sunne having the ſame Almicanter <hi>18</hi> degrées: the declination increaſting re<g ref="char:EOLhyphen"/>ſpected, for <hi>8</hi> houres, which is
+<hi>8</hi> min. North declination, maketh the time to be <hi>3</hi> min. after <hi>42</hi> clock in the afternoone, where<g ref="char:EOLhyphen"/>in there is a min. of time different from the South and the hori<g ref="char:EOLhyphen"/>zontall diſtance weſtward from the ſouth, to be <hi>66</hi> deg. <hi>53</hi> min. So that I find this laſt obſervation to be farther from the true Meridian, then the former by <hi>15</hi> min. but if the declination were decreaſing, then the laſt obſervation will be nearer the true meri<g ref="char:EOLhyphen"/>dian then the former by <hi>15</hi> minutes, which maketh a difference of variation, ſometime too much, or ſometime too little, by <hi>15</hi> minut. good, which is an error and therefore not the truth.</p>
+            </div>
+            <div type="subpart">
+               <head>Concerning the Tides.</head>
+               <p>EVen as mens minds for the moſt part are ſetled in the abſur<g ref="char:EOLhyphen"/>dities of the Card and compaſſe accordingly, ſo are they ſetled likewiſe in an abſurd reckoning of their Tides, as hereafter by the grace of God ſhall appeare, divided into two parts, firſt by the delivery of the Cpact, next according to the time obſerved, by the point of the Compaſſe, as follweth.</p>
+            </div>
+            <div type="subpart">
+               <head>The firſt part.</head>
+               <p>Theſe men doth not only know the prime by y<hi rend="sup">e</hi> date of our Lord, and the Epact by the prime, and the day of conjunction by the epact which is tollerable, according to the order of the Epact, allow<g ref="char:EOLhyphen"/>ing <hi>30</hi> dayes to every Moone: or on the <hi>30</hi> day end, to be Con<g ref="char:EOLhyphen"/>junction, which is notwithſtanding partly at randome, being without reſpect of the preciſe time of the conjunction.</p>
+               <p>But they juſtifie alſo the departure of Sunne and Moone in <hi>24</hi> houres to be continually <hi>48</hi> min. as though the motions of the Sunne and Moone continued all one, or that <hi>48</hi> minut. were their meane departure.</p>
+               <p>For they bring the <hi>32</hi> Points, every poynt being a <hi>11</hi> degr. and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a ſunder, the whole being <hi>260</hi> degr. to <hi>30</hi> whole dayes, allowing to every <hi>24</hi> houres the departure to be (as aforeſaid) <hi>48</hi> min. for <hi>30</hi> times <hi>48</hi> minutes is <hi>24</hi> houres: and
+<hi>4</hi> minutes of time is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſwerable to one degrée of the equator: therefore the de<g ref="char:EOLhyphen"/>parture
+<pb n="25" facs="tcp:40630:14"/>is <hi>12</hi> degrées in <hi>24</hi> houres, allowing the juſt revolution of the Equator to be in <hi>24</hi> houres, neither more nor leſſe, for <hi>30</hi> times <hi>12</hi> degrées is <hi>360</hi> degrées, in which their reckoning in my conceit, the courſe of the Sunne in thoſe <hi>30</hi> daies, which is about <hi>29</hi> degrées <hi>30</hi> min. is forgotten or not reſpected, but either they muſt of neceſſity, grant that the revolution of the Equator, and the departure of the Sunne and Moone, to be as hereafter ſhall be delivered: or elſe they muſt allow the Moones error in her yéerely courſe, to be <hi>5</hi> dayes <hi>15</hi> houres <hi>2</hi> minut. too much, which is an abſurdity, and maketh the ſinodicall error more then it ſhould be by <hi>11</hi> houres, <hi>15</hi> minut. <hi>56</hi> ſec. <hi>49</hi> thirds, but if they doe acknowledge, (which I take it, is in few or none of their heads) that the whole revolution of the Equator is turned a<g ref="char:EOLhyphen"/>bout in <hi>24</hi> houres, (as hereafter wall be delivered) and ſo doe reckon the odde time, to be for the meane courſe of the Sunne in the <hi>30</hi> daies, yet they muſt acknowledge by that reckoning, that the conjunction of the Sunne and Moone, muſt happen al<g ref="char:EOLhyphen"/>moſt at like times of every yéere, or at leaſt-wiſe, make the dif<g ref="char:EOLhyphen"/>ference ſooner of the yeerely period of the conjunction, to be but <hi>5</hi> dayes <hi>6</hi> houres <hi>9</hi> minutes, which indeed ſhould be <hi>10</hi> dayes, <hi>21</hi> houres, <hi>11</hi> minutes, as hereafter ſhall be delivered.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 part.</head>
+               <p n="1">
+                  <hi>1</hi> Alſo theſe men I juſtify in reckoning their Tides, in what place and time ſoever: that where it floweth a ſoutheaſt moone in conjunction or oppoſition (and poſſible by a falſe Compaſſe) then it floweth till <hi>9</hi> a clock: or where it floweth an Eaſt Moone in con<g ref="char:EOLhyphen"/>junction or oppoſition then it floweth <hi>6</hi> a clock, &amp; ſo its their judg<g ref="char:EOLhyphen"/>ments generally of all the reſt of the points of the Compaſſe.</p>
+               <p n="2">
+                  <hi>2.</hi> And to juſtifie my ſayings to be true, they have ſet forth, printed tide tables thereof, and in thoſe tables alſo, have ſet their judgements, that in conjunction or oppoſition it floweth <hi>48</hi> min. after the time upon any point as aforeſaid, which is abſurd.</p>
+               <p>Therefore theſe their judgements, for the ſecurity of their charge, had as much néed of refining as the Eaſt and weſt of the Compaſſe, as is ſaid before, to lead in paralell.</p>
+               <p>Now to the matter, for the refining of the firſt part as afore<g ref="char:EOLhyphen"/>ſaid, let this firſt part following ſuffice.</p>
+               <p>To know the times of the Conjunction otherwiſe then by the
+<pb n="26" facs="tcp:40630:15"/>Epact, is delivered by Ephemerides, or Alminacks, but rather knowne by that man that hath the knowledge himſelfe in the Theorickes of the Sunne and Moone: which knowledge ought to be in a man that would be artificall to refine theſe abſurdities.</p>
+               <p>In <hi>Meſl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nes</hi> Aſtronomie the metions of the Sunne and Moone are diſtinguiſhed into three parts; Slow, ſwift, and meane: that is to ſay; in <hi>Apogaeum</hi> ſlow, when they are fartheſt from the earth: in
+<hi>Perigeun,</hi> ſwift, when they are néereſt the earth: and in their meane betwéene the <hi>Apogaeum</hi> and <hi>Perigenm,</hi> notwith<g ref="char:EOLhyphen"/>ſtanding by theſe thrée motions there is knowledge underſtood, that the motions of the Sunne and Moone are alwayes different, that is to ſay, the Sunne from this place in <hi>Apogeum,</hi> to his
+<hi>Peri<g ref="char:EOLhyphen"/>geum:</hi> likewiſe the Moone from her <hi>Apogeum</hi> and <hi>Perigeum</hi> of her epicicle, &amp; from her <hi>Apogeum</hi> in her almoſt an oval forme of the cen<g ref="char:EOLhyphen"/>ter of her Epicicle, to her <hi>Perigeum</hi> thereof being the like qualited.</p>
+               <p>To juſtifie the Motions to be the truer: it is alſo delivered in this Aſtrouomy, that the Sunne hath thrée Orbes or particular Spheres, as followeth.</p>
+               <p>Firſt an Excentricke which is called the difference of the body of the Sun. ſecond is called the difference of y<hi rend="sup">e</hi> 
+                  <hi>Apogeum</hi> of the ex<g ref="char:EOLhyphen"/>centrick the which <hi>2</hi> doth containe the excentrick betwéen them: and <hi>3.</hi> maketh the whole ſphéere of the Sun to be concentrick. I could delate more of this theorick then I purpoſe, but it would be to ſmall effect concerning the tides, only reſpect this that follows.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Three reaſons to be delivered for this Hypotheſis as aforeſaid to be true.</head>
+            <p n="1">
+               <hi>1</hi> Firſt reaſon which cauſeth the Sunne to be in an excen<g ref="char:EOLhyphen"/>tricke, is the difference of the Sunnes motion: which is prooved ſometimes ſwift, ſometimes ſlow, as aforeſaid.</p>
+            <p n="2">
+               <hi>2</hi> Second reaſon is, becauſe the Diamiter of the Sunne, is prooved ſometime bigger (as in <hi>Perigeum 33</hi> min. <hi>44</hi> ſec.) then at ſome other time by <hi>2</hi> minutes <hi>6</hi> ſeconds, therefore néerer at ſome<g ref="char:EOLhyphen"/>times then at other times.</p>
+            <p n="3">
+               <hi>3</hi> The third reaſon is the inequality of the Epicicles becauſe it is proved that the Sun fartheſt from the earth cauſeth the Eclip<g ref="char:EOLhyphen"/>ſes to be longer and neerer the earth to be ſooner.</p>
+            <p>Meſline delivereth alſo in his Aſtronomy, that the greateſt ex<g ref="char:EOLhyphen"/>centricity of the Sunne is <hi>48</hi> ſemidiamiters of the earth.</p>
+            <p>
+               <pb n="27" facs="tcp:40630:15"/>And the leaſt excentricity which is néere in this our age about the
+<hi>9</hi> degrée of <hi>Cancer,</hi> is <hi>37</hi> ſemidiamiters of the earth.</p>
+            <p>So the difference is a <hi>11</hi> ſemidiamiters of the earth, and the ſemediamiter of the earth is <hi>3436</hi> miles and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>So that the ſunne is néerer unto us at ſome time, then at ſome other times by
+<hi>74</hi> ſemediamiters of the earth.</p>
+            <p>
+               <hi>Meſline</hi> delivereth likewiſe, one yearely Period of the ſunne to have <hi>365</hi> dayes <hi>6</hi> hour. <hi>9</hi> min. <hi>39</hi> ſec. and this yéere he calleth Sideriall or ſtarry, the diurnall mean motion of the Sunne ac<g ref="char:EOLhyphen"/>cordingly to be <hi>59</hi> min.
+<hi>8</hi> ſec. <hi>11</hi> thirds <hi>22</hi> fourths <hi>16</hi> fifths.</p>
+            <list>
+               <head>The motions of the Sunne as followeth.</head>
+               <item>Her ſwift motion in <hi>24</hi> houres, is — <hi>1</hi> deg. <hi>1</hi> min.
+<hi>16</hi> ſecond.</item>
+               <item>Her meane motion in <hi>24</hi> houres, is — <hi>0</hi> — <hi>59</hi> —
+<hi>8</hi>
+               </item>
+               <item>Her ſlow motion in <hi>24</hi> houres, is — <hi>0</hi> — <hi>57</hi> —
+<hi>0</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Meſline</hi> delivereth likewiſe in his Aſtronomy, that the Moone hath five Orbs or particular Spheres as followeth:
+<list>
+                  <item>
+                     <hi>1</hi> Firſt, an Excentricity.</item>
+                  <item>
+                     <hi>2</hi> Second, the difference of the Epicicles center.</item>
+                  <item>
+                     <hi>3</hi> Third, the difference of the excentricity in <hi>Apogeum</hi> and
+<hi>Perigeum.</hi>
+                  </item>
+                  <item>
+                     <hi>4</hi> Fourth is the Epicicle which carieth the body of <hi>Luna.</hi>
+                  </item>
+                  <item>
+                     <hi>5</hi> Fifth, which is Concentrick called <hi>aequans Luna.</hi>
+                  </item>
+               </list>
+            </p>
+            <div type="subpart">
+               <head>Foure reaſons following to prove this Hypotheſis to be true.</head>
+               <p n="1">
+                  <hi>1</hi> Firſt reaſon which cauſeth the Moone to be in an excentrick, is the difference of the Moones motion, which is proved ſometime ſwift, ſometime ſlow.</p>
+               <p n="2">
+                  <hi>2</hi> Second reaſon, is becauſe the Diameter of the Moone is prooved ſometime bigger as in <hi>Perigeum 35</hi> miu. <hi>38</hi> ſeconds then at ſome other time by
+<hi>5</hi> min. <hi>38</hi> ſec. therefore néerer at ſome times then at other times.</p>
+               <p n="3">
+                  <hi>3</hi> Thirdly, the inequality of the Eclipſes, becauſe the moone far<g ref="char:EOLhyphen"/>theſt from the earth, cauſeth the Eclipſes to be longer, and néerer the earth to be ſooner.</p>
+               <p n="4">
+                  <hi>4</hi> Fourthly, the inequality of the Paralax, becauſe the Moone ſartheſt from the earth, cauſeth the Horizontali paralax, to be the leſſe, and néerer to be more.</p>
+               <p>
+                  <pb n="28" facs="tcp:40630:16"/>And the greateſt excentricity of the Moone is <hi>10</hi> ſemidiami<g ref="char:EOLhyphen"/>ters of the earth, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a little leſſe.</p>
+               <p>And the ſemidiamiter of the Epicicle is <hi>5</hi> ſemidiamiters of the earth and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. So that the Moone is neerer unto us at ſome<g ref="char:EOLhyphen"/>time, then at ſome other times by <hi>30</hi> ſemidiamiters of the earth, and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, and likewiſe by the whole diamiter of the
+<hi>Circulus par<g ref="char:EOLhyphen"/>vus:</hi> which is <hi>20</hi> ſemidiamiters and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>For the Moone maketh a <hi>Circulus parvus,</hi> (contrary to her owne motion) about the center of the world, according to the ſe<g ref="char:EOLhyphen"/>midiamiter of the excentrick, which is <hi>10</hi> ſemidiamiters, and <hi>8</hi> min. <hi>30</hi> ſeconds.</p>
+               <p>Likewiſe the Moone hath latitude of the Ecliptick on either ſide <hi>5</hi> degrées, which for the tides is greatly to be reſpected.</p>
+               <p>
+                  <hi>Meſline</hi> delivereth one meane periodicall period of the Moone to have <hi>27</hi> dayes, <hi>7</hi> houres <hi>24</hi> minutes.</p>
+               <p>Alſo delivereth the meane time to make vp the periodicall peri<g ref="char:EOLhyphen"/>od to a meane ſinodicall period to have dayes, <hi>2</hi> dayes, <hi>5</hi> houres <hi>20</hi> minutes.</p>
+               <p>So that the meane ſinodicall month of the Moone to be in con<g ref="char:EOLhyphen"/>junction againe with the Sunne hath dayes, <hi>29</hi> dayes <hi>12</hi> houres, <hi>44</hi> minutes <hi>3</hi> ſec. <hi>11</hi> thirds.</p>
+            </div>
+            <div type="subpart">
+               <head>The motions of the Moone as followeth.</head>
+               <p>The ſwift motion of the Moone, ſometimes in <hi>24</hi> houres is <hi>15</hi> degrées
+<hi>0</hi> min.</p>
+               <p>The meane motion in <hi>24</hi> houres, is <hi>13</hi> degrées <hi>30</hi> minutes.</p>
+               <p>And her ſlow motion in <hi>24</hi> houres, is <hi>12</hi> degrées <hi>0</hi> minutes.</p>
+               <p>Now having delivered ſo much as needeth of the Theoricks of the Sunne and Moone concerning the Tides, we are come to the point to know their departure, which is as followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>The departure of the Sunne and Moone.</head>
+               <p>The Moone preſently after the conjunction departeth Eaſtward from the Sunne in
+<hi>Apogeum</hi> in <hi>24</hi> houres <hi>11</hi> deg. <hi>3,</hi> min. which is anſwerable in min. to <hi>44</hi> min. <hi>12</hi> ſeconds.</p>
+               <p>The Moone preſently after the conjunction, departeth from the Sunne in <hi>Perigeum</hi> in
+<hi>24</hi> houres <hi>13,</hi> degrees <hi>58</hi> minutes <hi>44</hi> ſeconds anſwerable in minutes, to <hi>55</hi> min. <hi>55</hi> ſeconds.</p>
+               <p>The Moone preſently after the conjunction departeth from the Sunne in meane motion, in
+<hi>24</hi> houres <hi>12</hi> degrees, <hi>30</hi> min. <hi>52</hi>
+                  <pb n="29" facs="tcp:40630:16"/>ſeconds, anſwerable in min. to <hi>50</hi> min. <hi>3,</hi> ſeconds
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+               <p>Sometimes the departure of the Sunne and Moone, when the Sunne is in her ſlow motion, and the Moone in her ſwift moti<g ref="char:EOLhyphen"/>on, in <hi>24</hi> houres, is <hi>14</hi> degrees, <hi>3</hi> minut. which maketh the depar<g ref="char:EOLhyphen"/>ture in minutes anſwerable to be <hi>56</hi> min. <hi>12</hi> ſeconds.</p>
+               <p>And ſometime the departure of the Sunne and Moone, when the Sunne is in his ſwift motion, and the Moone in her ſlow mo<g ref="char:EOLhyphen"/>tion, in <hi>24</hi> houres, is but <hi>10</hi> degrees, <hi>58</hi> min. <hi>44</hi> ſeconds, which maketh the departure in min. anſwerable to be <hi>43</hi> min.
+<hi>55</hi> ſec.</p>
+               <p>And the meane motion, between both theſe motions, next a<g ref="char:EOLhyphen"/>bove in <hi>24</hi> houres, is
+<hi>50</hi> min, <hi>2</hi> ſeconds, <hi>30</hi> thirds.</p>
+               <p>Which motion is juſtified twiſe, as above: therefore I conclude the meane departure of the Sunne and moone in <hi>24</hi> houres to be <hi>50,</hi> min, <hi>3,</hi> ſeconds <hi>30</hi> thirds.</p>
+               <p>And the hourely departure accordingly to be <hi>2</hi> min. <hi>5</hi> ſecon. <hi>8</hi> thirds, <hi>45</hi> fourths.</p>
+               <p>
+                  <hi>Stadius</hi> affirmeth in his Ephemerides, that in <hi>24</hi> houres the whole equator and
+<hi>50</hi> minutes <hi>8</hi> ſeconds is turned about, which is moſt certaine.</p>
+               <p>Likewiſe in a meane be affirmeth that the conjunction of the Sunne and Moone in one period, at any one time in the yeere, ſhall differ from the ſame time the next yeere, and be ſooner
+<hi>10</hi> dayes, <hi>21</hi> houres <hi>11</hi> min. as for example:</p>
+               <p>In the <hi>12</hi> meane ſinodicall moneths, the time that wanteth of <hi>12</hi> times,
+<hi>30</hi> dayes, is <hi>5</hi> dayes <hi>15</hi> houres <hi>2</hi> minutes, which ma<g ref="char:EOLhyphen"/>keth
+<hi>360</hi> dayes, the remainer of the dayes of the whole yeere, is <hi>5</hi> dayes, <hi>6</hi> houres, <hi>9</hi> minutes, which both together is <hi>10</hi> dayes <hi>21</hi> houres <hi>11</hi> min.</p>
+               <p>Now for the refining of the firſt <hi>2</hi> parts, let theſe laſt <hi>2</hi> parts following ſuffice, concerning their error in reckoning their tides delivering the time by the points of the Compaſſe: for the confu<g ref="char:EOLhyphen"/>ting hereof. I will deliver ſix examples, three examples in the north latitude <hi>30</hi> degr. and the other <hi>3</hi> examples in the north lati<g ref="char:EOLhyphen"/>tude <hi>51</hi> degrees <hi>32</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>North latitude 30 degrees, the Sunne in Capricorne.</head>
+               <p n="1">
+                  <hi>1</hi> The Sunne at ſoutheaſt, it is then <hi>¼.</hi> before <hi>9</hi> a clock in the morning, but if the Moone hath <hi>5</hi> degrees South latitude, then it is
+<hi>24</hi> minutes before <hi>9</hi> a clock: if the Moone have <hi>5</hi> deg. North
+<pb n="30" facs="tcp:40630:17"/>latitude, then it is <hi>16</hi> min. paſt <hi>9</hi> a clocke.</p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in the Equator.</head>
+               <p>The Sunne at Southeaſt, it is then <hi>14</hi> min. paſt <hi>10</hi> aclock in the morning: but if the Moone have <hi>5</hi> degrées ſouth latitude, then it is <hi>7</hi> min. before
+<hi>10:</hi> if the Moone have <hi>4</hi> degrées north la<g ref="char:EOLhyphen"/>titude, then it is <hi>30</hi> minutes paſt <hi>10</hi> a clok</p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in Cancer.</head>
+               <p>The Sunne at ſoutheaſt, it is then <hi>32</hi> min. paſt a <hi>11</hi> a clock in the morning, but if the Moone have <hi>5</hi> degr. ſouth latitude, then it is <hi>15</hi> minut. paſt a <hi>11:</hi> if the Moone hath <hi>5</hi> degr. north latitude, then it is <hi>54</hi> minutes paſt a <hi>11</hi> of the clock.</p>
+               <p>And at an eaſt Sunne, it is then <hi>18</hi> min. paſt <hi>9</hi> a clock in the morning, but if the Moone have <hi>5</hi> degrées South latitude then it is <hi>24</hi> min. paſt
+<hi>8</hi> a clock: if the Moone have <hi>5</hi> degr. north lati<g ref="char:EOLhyphen"/>tide, then it is <hi>40</hi> min paſt <hi>10</hi> a clock. So that in this north la<g ref="char:EOLhyphen"/>titude of <hi>30</hi> degrées, there is difference of time in the Moones be<g ref="char:EOLhyphen"/>ing ſentheaſt &amp;, <hi>3</hi> houres. <hi>18</hi> min. and in the ſame latitude, diffe<g ref="char:EOLhyphen"/>rence from <hi>6</hi> a clock in the eaſt <hi>4</hi> houres
+<hi>40</hi> min.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>The other 3 Examples in the North Latitude 51 deg. 32 min. the Sunne in Capricornus.</head>
+            <p n="1">
+               <hi>1</hi> The Sunne at the Southeaſt &amp;, it is then <hi>20</hi> minut. before
+<hi>9</hi> a clock in the morning: but if the Moone hath <hi>5</hi> degrees ſouth latitude, then it is <hi>18</hi> minutes paſt <hi>8:</hi> if the Moone have <hi>5</hi> deg. north latitude, then it is <hi>51</hi> min. paſt <hi>8</hi> a clock.</p>
+            <div type="subpart">
+               <head>Sunne in the Equator.</head>
+               <p>The Sunne at the ſoutheaſt, it is then <hi>28</hi> min. paſt <hi>9</hi> a clock in the morning: but if the Moone have <hi>5</hi> degrées ſouth latitude, then it is <hi>18</hi> min. paſt <hi>9:</hi> if the moone have <hi>5,</hi> degr. north latitude then it is <hi>38</hi> min. paſt <hi>9</hi> a clock.</p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in Cancer.</head>
+               <p>The Sunne at the ſoutheaſt, it is then <hi>18</hi> min paſt <hi>10</hi> a clock in the morning: but if the Moone hath <hi>5</hi> degrées ſouth latitude, then it is <hi>6</hi> minut. paſt <hi>10.</hi> If the Moone have <hi>5</hi> degrées north la<g ref="char:EOLhyphen"/>titude, then it is
+<hi>30</hi> min. paſt <hi>10</hi> a clocke.</p>
+               <p>But at an Eaſt ſunne it is then <hi>22</hi> min. paſt <hi>7</hi> a clocke in the morning, but if the Moone have <hi>5</hi> degrees South latitude, then it
+<pb n="31" facs="tcp:40630:17"/>is <hi>2</hi> minutes paſt <hi>7.</hi> If the moone have <hi>5</hi> degrées north latitude: then it is <hi>42</hi> minutes paſt ſeven a clock: likewiſe in this north latitude <hi>51</hi> degrées <hi>32</hi> minutes, there is difference of time in the Moone being ſoutheaſt <hi>2</hi> houres, <hi>2</hi> minutes.</p>
+               <p>And in this ſame Latitude, difference in the eaſt from <hi>6</hi> a clock <hi>1</hi> houre
+<hi>42</hi> minutes: the miſtaking of ſo much time, from the high water, may overthrow their charge in going into a harbor, where it is to be reſpected.</p>
+               <p n="2">
+                  <hi>2</hi> And whereas they deliver in their Tide Tables, a hoying of the tide in conjunction, aſpect or oppoſition, to <hi>48</hi> m. after the order in that Tide Table, it is not ſo, but in a river or in-draft, where the Tides in their prime runneth quick, there Tides of flouds will runne <hi>48</hi> minutes after high water; and thus I will leave the delating of the Tides.</p>
+            </div>
+            <div type="subpart">
+               <head>Concerning the Time.</head>
+               <p>SUch is the conceit or knowledge of the Sea-men in theſe times, they take a common Compaſſe, little reſpecting the er<g ref="char:EOLhyphen"/>ror thereof, being touched with a Stone of no ſtrength, and made wiſe by a man of no knowledge: which Compaſſe they devide into <hi>24</hi> houres, to deliver unto them, (they obſerving the Sunne therewith) the time they looke for, which is as lame a deli<g ref="char:EOLhyphen"/>very of the times as may be, and is ſomewhat touched before in the delivery of the Tides, and likewiſe as hereafter followeth.</p>
+               <p>Alſo, they obſerve the time by an houre, or halfe houre glaſſe, made by as carefull a man, as the Compaſſe before ſpoken off, who indéed careth but little what error more or leſſe, is de<g ref="char:EOLhyphen"/>livered in thoſe glaſſes in <hi>24</hi> houres, nay in halfe an houre, with whom (as the proverb is) an inch breaketh no ſquare.</p>
+               <p>Which Compaſſes and glaſſes had néede to be carefully re<g ref="char:EOLhyphen"/>ſpected, nay rather to be reformed, for the ſecurity (as aforeſaid) of the Navy of England, which is greatly indangered by them: and although theſe appendances for Nauigation be méere falſe, yet the Market-folkes being not experienced by them, in conſi<g ref="char:EOLhyphen"/>deration of the cheapeneſſe of them, holding themſelves thereby, profitable ſervants to the owner.</p>
+               <p>And although the time generally from one Moone to the o<g ref="char:EOLhyphen"/>ther, cannot be perfectly delivered by any man, as hereafter
+<pb n="32" facs="tcp:40630:18"/>ſhall be ſhewed: yet by preciſe Inſtruments carefully made the time may be delivered more truely which is the greateſt helpe we have in Longitude, and for a man moſt carefull in making of his Compaſes, and running glaſſes, I commend Maiſter <hi>Eme<g ref="char:EOLhyphen"/>rie Mollineux</hi> of <hi>Lambeth</hi> (while he lived) as for my conceit, which I have learned concerning the time, it is as hereafter fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>Firſt, for the confuting of the time delivered by the compaſſe, as aforeſaid, which Compaſſe is delivered by <hi>360</hi> degrees, which in<g ref="char:EOLhyphen"/>deed are Azimuths, and they juſtify as many Azimuths, which is <hi>15</hi> for one houre, as for another which is contrary, therefore I will deliver three examples to that effect in the Latitude <hi>51</hi> de<g ref="char:EOLhyphen"/>grees <hi>32</hi> minutes as followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in Capricornus.</head>
+               <p>From the Sunne riſing to one houre of time, there is <hi>12</hi> Azi<g ref="char:EOLhyphen"/>muths and a
+<hi>¼,</hi> and from a <hi>11</hi> a clock to <hi>12</hi> at Noone, there is <hi>14</hi> A<g ref="char:EOLhyphen"/>zimuths.</p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in the Equator.</head>
+               <p>From the Sunne riſe to one houre of time, there is <hi>12</hi> Azi<g ref="char:EOLhyphen"/>muthes, and from a
+<hi>11</hi> a clock, to <hi>12</hi> at noone, there is <hi>18</hi> Azi<g ref="char:EOLhyphen"/>muths and
+<hi>¾.</hi>
+               </p>
+            </div>
+            <div type="subpart">
+               <head>Sunne in Cancer.</head>
+               <p>From the Sunne riſe to one houre of time, there is a <hi>11</hi> Azi<g ref="char:EOLhyphen"/>muths and
+<hi>⅓.</hi> and from a <hi>11</hi> a clock to <hi>12</hi> at noone, there is <hi>28</hi> Azimuths.</p>
+               <p>Alſo followeth two examples, the one in the north latitude <hi>51</hi> degrees <hi>32</hi> minutes: the other in the north latitude, <hi>66</hi> degrees, concerning the difference of time, as followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 Example in Latitude 51 degr. 32 min.</head>
+               <p>
+                  <hi>Aries</hi> whole ſigne, hath declination a <hi>11</hi> degrees <hi>20</hi> min. which reacheth in longitude Eaſtward, according to the degrees on the Equator to the <hi>28</hi> meridian likewiſe this whole ſigne of <hi>Aries</hi> doth lengthen the dayes <hi>1</hi> houre and <hi>58</hi> min.</p>
+               <p>
+                  <hi>Taurus,</hi> his whole ſigne, hath declination <hi>8</hi> degrees <hi>50</hi> min. which reacheth in longitude Eaſtward according to the degrees on the Equator, to the <hi>29</hi> and a halfe Meridian: alſo this whole ſigne of <hi>Taurus</hi> doth length the dayes one houre and
+<hi>44</hi> minutes.</p>
+               <p>
+                  <hi>Gemini,</hi> his whole ſigne hath declination <hi>3</hi> degr. <hi>18</hi> min.
+<pb n="33" facs="tcp:40630:18"/>which reacheth in Longitude eaſtward, according to the degrees on the equator to the <hi>32</hi> and a halfe Meridian, alſo this whole ſigne of <hi>Gemini</hi> doth length the dayes <hi>1</hi> houre <hi>40</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 Example in North Latitude 66 degr.</head>
+               <list>
+                  <item>
+                     <hi>Aries</hi> whole ſigne, lengthen the dayes, — <hi>3</hi> hour. and <hi>46</hi> min.</item>
+                  <item>
+                     <hi>Taurus</hi> whole ſigne, lengthen the dayes, — <hi>3</hi> hour. and <hi>38</hi> min.</item>
+                  <item>
+                     <hi>Gemini</hi> his whole ſigne lengthen the dayes, — <hi>3</hi> hour. and <hi>0</hi> min.</item>
+               </list>
+               <p>But ſeeing that generall time from one Noone to an other, cannot be delivered certaine, but there ſhall be error, ſo that one <hi>24</hi> houres ſhall be longer, or ſhorter then an other by <hi>1</hi> houre and <hi>28</hi> min. as hereafter ſhall be delivered: what certaine time then can be delivered by any Inſtruments for that purpoſe, which de<g ref="char:EOLhyphen"/>livereth but a ſecond error.</p>
+               <p>Now will I deliver ſome cauſes, why the time from one noone to another cannot be of like time.</p>
+               <p>
+                  <hi>Meſline</hi> in his Aſtronomy, delivereth that there is three Eclip<g ref="char:EOLhyphen"/>tickes as followeth.</p>
+               <p>Firſt the ecliptick of the <hi>10</hi> Spheare which is fixed.</p>
+               <p>Second, the ecliptick of the <hi>9</hi> Spheare which is mooveable.</p>
+               <p>Thirdly the ecliptick of the <hi>8</hi> Spheare which is the true eclip<g ref="char:EOLhyphen"/>tick of the ſtarry firmament.</p>
+               <p>Likewiſe he delivereth that the Sunne in <hi>Aries</hi> of the <hi>9</hi> Sphere, is gone to the Eaſtward of the Sunne in <hi>Aries</hi> of the <hi>10</hi> ſpheare, <hi>27</hi> degrees and better, but directly vnder it, in the ſame plaine.</p>
+               <p>Alſo that the Sunne in <hi>Aries</hi> of the <hi>8</hi> ſphears never is neerer to the Sunne in <hi>Aries</hi> of the <hi>9</hi> Spheare, then by the ſemidiamiter of the ſmall circle, which is <hi>9</hi> degrees.</p>
+               <p>Now <hi>Meſline</hi> delivereth the difference of the judgements of the Aſtronomers, and that <hi>Ptolomy</hi> maketh the <hi>8</hi> and <hi>9</hi> Sphears all one, delivering the opinion of <hi>Prolomy</hi> and others, as followeth.</p>
+               <p>The opinion of <hi>Prolomie</hi> concerning the motions of the fixe<g ref="char:EOLhyphen"/>ſtarres, comparing the obſervations made <hi>400</hi> yeeres before him, with his owne: he finding therby that the fixed Starres had moo<g ref="char:EOLhyphen"/>ved in conſequence <hi>4</hi> deg. therefore <hi>Prolomie</hi> all owed to the whole revolution of the fixed ſtarres, to accompliſh one period, according to the rate of
+<hi>36000</hi> yeeres, that was for every <hi>100</hi> yeeres, one deg.</p>
+               <p>
+                  <hi>Meſline</hi> delivereth alſo that the opinion of the <hi>Alfonfines,</hi> con<g ref="char:EOLhyphen"/>cerning our revolution, or accompliſhing of one period of the <hi>9</hi>
+                  <pb n="34" facs="tcp:40630:19"/>Spheere is in <hi>49000</hi> yéeres, but according to
+<hi>Copernicus</hi> his obſervations, one periodicall revolution is in <hi>25816</hi> yeeres, de<g ref="char:EOLhyphen"/>livering that an houre of the longeſt day is <hi>63</hi> minut. <hi>40</hi> ſeconds, ſuch as an houre of the ſhorteſt day is onely <hi>60</hi> min.</p>
+               <p>
+                  <hi>Copernicus</hi> maketh (likewiſe) the yeere <hi>365</hi> dayes, <hi>5</hi> houres,
+<hi>49</hi> min. <hi>15</hi> ſeconds, <hi>46</hi> thirds, which he calleth the yeere Tropicall, equally ſupputated, or counted to the middle Equinoctiall.</p>
+               <p>The <hi>Aifonſines</hi> in their account, wanteth in their yeerely pe<g ref="char:EOLhyphen"/>riod <hi>13</hi> thirds.</p>
+               <p>
+                  <hi>Meſline</hi> maketh the yeere <hi>365</hi> dayes, <hi>6</hi> houres, <hi>9</hi> minutes,
+<hi>39</hi> ſeconds, and this yeere he calleth ſyderiall or ſtarry, numbred un<g ref="char:EOLhyphen"/>der the Spheere of the fixed Starres, which is more then the yeere delivered by <hi>Copernicus</hi> by
+<hi>20</hi> min. <hi>23</hi> ſeconds <hi>14</hi> thirds.</p>
+               <p>Delivering the cauſes of this difference to be this, making theſe beginning of the yéeres to be in one point of the <hi>10</hi> and <hi>9</hi> ſphéeres and the
+<hi>9</hi> Sphéere (before the yeere end) being remooved Eaſterly from the <hi>10</hi> ſpheere, the yeere end comming to that point of the <hi>12</hi> Spheare againe, is to proceed from it to that point of the <hi>9</hi> ſphere alſo before the yeere endeth.</p>
+               <p>
+                  <hi>Meſline</hi> delivereth (the Sunne being in the <hi>Apogeum</hi> part) that from middle motion to middle motion, the ſun paſſeth <hi>176</hi> deg. <hi>20</hi> min. of the ecliptick: And the ſun being in the <hi>Perigeum</hi> part from middle motion to middle motion, paſſeth
+<hi>183</hi> degr. <hi>40</hi> minutes of the ecliptick, which maketh a difference of <hi>7</hi> degr. <hi>20</hi> minutes.</p>
+               <p>But from the points of true motions, the halfes are equall, each <hi>180</hi> deg. of the Ecliptick: and the arch of time betweene the middle and middle motion of the Sunne in
+<hi>Apogeum</hi> part, is <hi>182</hi> dayes and <hi>6</hi> houres.</p>
+               <p>Alſo the Arch of time betweene the true motion and true motion of the Sun in the
+<hi>Perigeum</hi> part, is <hi>179</hi> dayes, which maketh the arch of time betweene the middle &amp; the midle motion of the ſunne in <hi>Apogeum;</hi> more then in <hi>Perigeum</hi> by three dayes and <hi>6</hi> houres.</p>
+               <p>Alſo maketh the arch of time, betweene the midle and true moti<g ref="char:EOLhyphen"/>on of the ſunne in both the meane motions, to be <hi>4</hi> dayes, and the arch of time different from the true motion, to the true motion of the ſunne in <hi>Apogeum,</hi> from the ſame points in his <hi>Perigeum</hi> to be <hi>7</hi> dayes and <hi>6</hi> houres.</p>
+               <p>And as for the reſt of the Theoricks of the Sunne and Moone
+<pb n="35" facs="tcp:40630:19"/>I have delivered ſufficient in my delivery before, concerning the tides.</p>
+               <p>But to conclude, <hi>Stadius</hi> in his Ephemerides, <hi>folio 57,</hi> of the E<g ref="char:EOLhyphen"/>quation of the naturall dayes, delivereth as followeth, concerning the time.</p>
+               <p>We have computed all the places of all the Planets, and alſo of the Sunne and Poone in this our Ephemerides, for the natu<g ref="char:EOLhyphen"/>rall dayes (to wit,) for the ſpace, in the which the whole equa<g ref="char:EOLhyphen"/>tor is turned about, and moreover <hi>59</hi> minutes and <hi>8</hi> ſeconds: but becauſe the apparent, and true day now and then doth exceed this time, and now and then is leſſe: to wit,</p>
+               <p>Partly when the Sunne goeth ſwifter, or flower, by reaſon of his Proſthopheriſis.</p>
+               <p>Partly for that equall times of the Equator, in the diurnall coartation, or revolution, doe not anſwer to equall ſagments, or parts of the Zodiack, it commeth to paſſe, that this inequality of time alſo needeth a proſthopheriſts, the which notwithſtanding cannot be alwayes equall nor certaine.</p>
+               <p>For the converſion of the Circle of the Equator, though vnto the middle and equall
+<hi>Equinoctium,</hi> which is the yéere divided into foure equall parts, is evermore equally conſtant, yet nevertheleſſe, unto the apparant Equinoctium which are the true equinoctiis which the excentrick yeelds, is found not equall.</p>
+               <p>Neither doth the Sunnes <hi>Apogeum</hi> occupy a ſtable ſeat, be<g ref="char:EOLhyphen"/>cauſe the
+<hi>Apogeum</hi> flecteth in the ecliptick every <hi>13</hi> yeeres <hi>1</hi> de<g ref="char:EOLhyphen"/>gree <hi>27</hi> minutes: moreover the Sunne in his excentricity doth ſome hurt by his ſhifting for the excentricity is more and leſſe by a eleven ſemidiamiters of the Earth, as aforeſaid, and goeth about with the ecliptick.</p>
+               <p>Wherefore alſo no limit can be appointed perpetually to this insquallity, but in this our Age all theſe cauſes conferred one with another, and added together, doe ſhow that the grea<g ref="char:EOLhyphen"/>teſt day and leſſe day doe differ one from an other, one houre and <hi>28</hi> minutes, that is to ſay, <hi>22</hi> times (or Meridians) and <hi>20</hi> mi<g ref="char:EOLhyphen"/>nutes of the Equator.</p>
+               <p>But ſeeing that this inequality of dayes cannot miſſever the reſt of the motions, therefore it is neceſſary that we ſhould ad<g ref="char:EOLhyphen"/>mit them to be equall, vnto the which equall dayes, the Tables
+<pb n="36" facs="tcp:40630:20"/>of the motions ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ould be both made and ſet together, the which courſe we have taken in this our Ephemerides, and for that cauſe we have borrowed the Canon of equation of dayes out of <hi>E<g ref="char:EOLhyphen"/>raſmus Rheinholdus</hi> which agréeth neereſt with our age, vntill the yéere <hi>1600.</hi>
+               </p>
+               <p>Therefore according as you find the number in that cannon to adde or ſubſtract: that is the time that the day is eyther lon<g ref="char:EOLhyphen"/>ger or ſhorter, then the equall day, or the day of the Ephemerides, that is the firſt equated day, or day equated vpon the difference of <hi>88</hi> minutes, whereas the ſecond equation is of dayes once e<g ref="char:EOLhyphen"/>quated, and now doth equate them vpon the difference of <hi>44</hi> minutes, whoſe halfe is <hi>22</hi> minutes, the greateſt number within the cannon.</p>
+               <p>Séeing there is a firſt error concerning the time delvered, e<g ref="char:EOLhyphen"/>ven in the motions of the Heavens, as aforeſaid, therefore theſe running Glaſſes delivering but a ſecond error: the reaſon is this: becauſe they cannot be made without their imperfections, had need to be moſt carefully made, and by the preciſeſt workman: that the time delivered by them, may be but according to the ſe<g ref="char:EOLhyphen"/>cond error, for the delivery of the Longitude, by which running glaſſes, next hereafter nominated, the longitude is better delive<g ref="char:EOLhyphen"/>red then by any other Inſtruments.</p>
+               <p>A glaſſe whoſe ſand is mettall and the mettal ſaid by ſome will not ruſt, notwithſtanding in my opinion, it will ruſt ſomewhat, and be ſometimes moyſter, then at other times, likewiſe the hole that the ſand runneth thorough, will grow wider with the force of the ſand, the rather being violated by the ſurges of the ſea: which imperſections conſidered, the glaſſe muſt needs deli<g ref="char:EOLhyphen"/>ver the time, ſometime ſhorter, and ſometime longer, according to the weather, therefore a ſecond error: yet this glaſſe is more tol<g ref="char:EOLhyphen"/>lerable then the reſt for this delivery, and is to be vſed before all other, of which glaſſes there may be divers ſorts, for the delive<g ref="char:EOLhyphen"/>ry of more and leſſe at pleaſure.</p>
+               <p>And becauſe the running glaſſes with ſand is more groſſer, and that clockes and watches hath their more imperfections, then the former glaſſe, I will omit them, and leave the delivery of the time for this preſent.</p>
+            </div>
+            <div type="subpart">
+               <pb n="37" facs="tcp:40630:20"/>
+               <head>Concerning the Windes according to Experience.</head>
+               <p>DIfferences or diverſities of windes, I have ſéene at ſea, in ſome calme day (in Summer time) among divers ſhipping, be<g ref="char:EOLhyphen"/>ing of one fléete, ſo that ſome ſixe of them or more, have all had contrary windes till the wind was ſetled.</p>
+               <p>Likewiſe in Summer time I have knowne in places of ſmall diſtance, as at
+<hi>Hambrough,</hi> the winde at weſt ſouth weſt, ſo much winds, that we have rid with our top-maſt downe, and at <hi>Lee</hi> the very ſame time, the Ships then bound for
+<hi>Hambrough,</hi> had aſmuch wind (by report) at eaſt north eaſt, but both thoſe winds continued not long, and betwéene which windes no doubt it was calme for the time.</p>
+               <p>Alſo in Winter time, I have ſéene it often in being at ſea, the wind being at South ſoutheaſt, much wind and vpon a ſudden the wind hath altered to the northweſt, or north northweſt, ve<g ref="char:EOLhyphen"/>ry much wind, and ſo alterations of winds I have likewiſe ſéene vpon other points of the Compaſſe.</p>
+               <p>And in ſayling toward Head-lands, or in ſayling about Head<g ref="char:EOLhyphen"/>lands I have found the wind ſometime too large vnto vs, and o<g ref="char:EOLhyphen"/>ther times againe too ſcant vnto vs: Therefore the wind very difficult to delate vpon, my farther reaſon is this, becauſe it is delivered in the Scriptures that the wind bloweth, but from whence it commeth or whether it goeth no man knoweth.</p>
+               <p>Yet notwithſtanding, many times in Summer time, but eſpe<g ref="char:EOLhyphen"/>cially in winter time, when growen ſtormie windes are ſetled, we may conjecture that they extend farre, and in my opinion (which opinion I hold for a truth) y<hi rend="sup">e</hi> wind then bloweth in a great circle, therefore cannot be paralell to any great circle of that na<g ref="char:EOLhyphen"/>ture, my reaſon is this, becauſe great Circles doth croſſe them<g ref="char:EOLhyphen"/>ſelves at oppoſite points, as in the demonſtrature of the compaſſe is delivered.</p>
+               <p>Therefore this delivery confuteth the flat Cards, my reaſon is this, becauſe the flat cardes delivereth the windes to blow in para<g ref="char:EOLhyphen"/>lells, according to the lineament thereof.</p>
+               <p>Likewiſe by the Card the wind at Eaſt, and a Ship going weſt, eyther in the latitude
+<hi>33</hi> degrées, <hi>35</hi> minutes, and latitude <hi>60</hi> degrées, or in the north latitude <hi>40</hi> degr. <hi>15</hi> minut, or in what latitude elſe ſoever, it is ſaid to lead in paralell, notwithſtan<g ref="char:EOLhyphen"/>ding,
+<pb n="38" facs="tcp:40630:21"/>the Card delivereth the going Weſt to make right angles with the Meridians which is very abſurd, and that the wind continuing, they ſhall goe weſt ſtill aſore the wind.</p>
+            </div>
+            <div type="subpart">
+               <head>Concerning the Wind by Sphericail working. The 1 Example.</head>
+               <p>PReſuppoſe a firſt place (which I will call our place of depar<g ref="char:EOLhyphen"/>ture) in any one degrée of Longitude whatſoever, and in the North latitude of <hi>33</hi> degrées,
+<hi>35</hi> minutes, in which place the eaſt and weſt of the Compaſſe, according to the demonſtrature, is a Tangent vnto this paralell, and croſſeth the equator at oppoſite points
+<hi>90</hi> degrées in longitude Eaſtward and weſtward, which eaſt and weſt points in the Equinoctiall kéepe in mind.</p>
+               <p>I purpoſe from this firſt place (as aforeſaid) to ſayle to a ſecond place according to the way of the weſt vpon the difference, which ſhall be in Longitude from the firſt place
+<hi>90</hi> degrées, which <hi>90</hi> degrées, in theſe paralells is <hi>75</hi> degrées of a great circle or little more: now in this ſecond place which is at this preſent my place of being, I find my ſelfe delated from the paralell accor<g ref="char:EOLhyphen"/>ding to the difference, where I purpoſe to deliver the Eaſt and weſt (likewiſe) according to the demonſtrature, being alſo a Tangent unto this paralell, and croſſeth the Equator at oppoſite points according to the former, but <hi>90</hi> degrées different in longitude, which two demonſtrated ſemicircles doe croſſe each other in <hi>24</hi> degrées
+<hi>15</hi> minutes of Latitude, <hi>46</hi> degrées in longitude from the firſt place, and <hi>44</hi> degrees in longitude from the ſecond place.</p>
+               <p>Now from my firſt place of departure, the ſecond place doth beare according to the demonſtrature of the Compaſſe, weſt north<g ref="char:EOLhyphen"/>weſt, and <hi>5</hi> degrees Northerly, vpon which point the two places are diſtant <hi>73</hi> degrees <hi>15</hi> minutes of a great circle, which is a nee<g ref="char:EOLhyphen"/>rer way then the way vpon the Weſt according to the difference as aforeſaid, by
+<hi>1</hi> degree <hi>45</hi> minutes.</p>
+               <p>And from my ſecond place of being, the firſt place of departure doth beare according to the demonſtrature of the Compaſſe Eaſt northeaſt, and <hi>7</hi> degrees northerly, vpon which point likewiſe the two places are diſtant <hi>73</hi> degrees <hi>15</hi> minutes.</p>
+               <p>So by this delivery having continued the Ships caping or courſe weſt from the firſt place of departure to the ſecond place,
+<pb n="39" facs="tcp:40630:21"/>I doe conclude that the wind being conſtant and ſtable in blow<g ref="char:EOLhyphen"/>ing from the firſt place to the ſecond place, that at the ſecond place the wind is altered of you two points and <hi>7</hi> degrées to the North<g ref="char:EOLhyphen"/>ward, as aforeſaid, though it were at Eaſt in the firſt place, which delivery in my judgement is the truth.</p>
+               <p>But if the wind being at the firſt place, be at Eaſt, and in ſayling to the ſecond place, be variable and alterable, as the Eaſt and weſt by the demonſtrature is variable by croſſing the equa<g ref="char:EOLhyphen"/>tor according to the difference in Longitude, then you ſhall goe from the firſt place to the ſecond place weſt as aforeſaid (the wind being at eaſt) right afore the wind, but this way in my judgement is impoſſible and not the truth.</p>
+            </div>
+            <div type="subpart">
+               <head>A ſecond Example.</head>
+               <p>Being in <hi>60</hi> degrées North latitude and in one Meridian of lon<g ref="char:EOLhyphen"/>gitude, which is my firſt place, which hath his demonſtrature of Eaſt and weſt accordingly, being a tangent vnto this paralell, and in croſſing the equator at oppoſite points, after the manner in the firſt Example, from whence I ſayle Weſt accordingly to the difference to <hi>90</hi> degrées in longitude, which <hi>90</hi> degrées in longi<g ref="char:EOLhyphen"/>tude in theſe paralells is
+<hi>45</hi> degrées of a great circle, little more, which is my ſecond place: in which ſecond place I finde my ſelfe there to be delated from the paralell according to the difference, and in which ſecond place likewiſe I purpoſe to deliver the eaſt and weſt according to the former, but <hi>90</hi> degrées different in lon<g ref="char:EOLhyphen"/>gitude; and theſe two demonſtrated ſemicircles, doe croſſe each o<g ref="char:EOLhyphen"/>ther in <hi>50</hi> degrées of latitude
+<hi>46</hi> degrées <hi>20</hi> minutes in longitude from the firſt place, and <hi>43</hi> degrées, <hi>40</hi> minutes in longitude from the ſecond place.</p>
+               <p>So that from my firſt place of departure, the ſecond place doth beare (according to the demonſtrature of the Compaſſe) Northweſt and by weſt <hi>5</hi> degrées
+<hi>20</hi> minutes northerly, vpon which point the two places are diſtant <hi>42</hi> degrées <hi>35</hi> minutes of a great Circle, which is likewiſe a néerer way then the way of the weſt according to the difference, as aforeſaid, <hi>2</hi> degr. <hi>25</hi> minutes.</p>
+               <p>And from the ſecond place of being, the firſt place of departure, doth beare according to the demonſtrature of the Compaſſe, north<g ref="char:EOLhyphen"/>eaſt and by eaſt and <hi>8</hi> deg. <hi>20</hi> minut. northerly, vpon which point the two places are alſo diſtant <hi>42</hi> deg, <hi>35</hi> minut. of a great circle.</p>
+               <p>
+                  <pb n="40" facs="tcp:40630:22"/>So that by this delivery being at this ſecond place, the wind is altered of me thrée points, and <hi>8</hi> degrées <hi>20</hi> minutes North<g ref="char:EOLhyphen"/>ward, though it were at the Eaſt in the firſt place.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 Example.</head>
+               <p>Being in <hi>80</hi> degrées <hi>15</hi> minutes North latitude and in one me<g ref="char:EOLhyphen"/>ridian of longitude, which is my firſt place, which hath his demon<g ref="char:EOLhyphen"/>ſtrature of Eaſt and weſt accordingly, being a tangent vnto this paralell, and in croſſing the equator at oppoſite points, after the manner in the firſt example, from whence I ſayle weſt according to the difference to <hi>90</hi> degr. in longitude, which <hi>90</hi> degrées in lon<g ref="char:EOLhyphen"/>gitude in theſe paralells, is <hi>15</hi> degrées of a great circle, little more which is my ſecond place: in which ſecond place I find my ſelfe there to be delated from the paralell, according to the difference.</p>
+               <p>And in which ſecond place, I purpoſe to deliver alſo the Eaſt and weſt, according to the demonſtrature, which likewiſe croſſeth the equator at oppoſite points according to the former, but <hi>90</hi> de<g ref="char:EOLhyphen"/>grées difference in longitude, and theſe two demonſtrated ſemi<g ref="char:EOLhyphen"/>circles doe croſſe each other in <hi>75</hi> degrées, <hi>45</hi> minu. in latitude, <hi>48</hi> degrées in longitude from the firſt place, and <hi>42</hi> degrées in longi<g ref="char:EOLhyphen"/>tude from the ſecond place.</p>
+               <p>So that from my firſt place of departure, the ſecond place doth beare according to the demonſtrature of the Compaſſe northweſt and by weſt, and <hi>8</hi> degrees northerly: vpon which point the two places are diſtant <hi>14</hi> degrees of a great circle, which alſo is an nee<g ref="char:EOLhyphen"/>rer way then by the weſt as aforeſaid by one degree.</p>
+               <p>And from my ſecond place of being, the firſt place of departure doth beare according to the demonſtrature of the Compaſſe north-Eaſt, one degree <hi>20</hi> minutes northerly, vpon which point the two places are diſtant <hi>14</hi> degrees of a great circle.</p>
+               <p>So that by this delivery being at the ſecond place, the wind is altered of me <hi>4</hi> points and one degree <hi>20</hi> minutes to the north<g ref="char:EOLhyphen"/>ward, though it were at the Eaſt in the firſt place.</p>
+            </div>
+            <div type="subpart">
+               <head>A thing worth the Noting.</head>
+               <p>In all the three examples, as aforeſaid this thing worthy the no<g ref="char:EOLhyphen"/>ting might be delivered, yet I will deliver but one of them accor<g ref="char:EOLhyphen"/>ding to the ſecond example in latitude <hi>60</hi> deg. in which ſecond ex<g ref="char:EOLhyphen"/>ample or delivery, the interſection or croſſing of theſe two ſemi<g ref="char:EOLhyphen"/>circles of eaſt &amp; weſt according to the demonſtrature from the firſt
+<pb n="41" facs="tcp:40630:22"/>place of departure and ſecond place, is in latitude <hi>50</hi> deg, which in<g ref="char:EOLhyphen"/>terſection is from the firſt place weſt, &amp; from the ſecond place eaſt.</p>
+               <p>Yet being in this interſection, the firſt place beareth from it northeaſt by eaſt, and
+<hi>5</hi> degrees, <hi>38</hi> minutes northerly, and diſtant <hi>27</hi> degrées
+<hi>32</hi> minutes of this great circle.</p>
+               <p>And the ſecond place beareth from it northweſt &amp; by weſt, <hi>1</hi> de<g ref="char:EOLhyphen"/>grée
+<hi>40</hi> minutes northerly, and diſtant <hi>26</hi> degrées, <hi>20</hi> min. of this great circle according to the demonſtrature of the compaſſe: and thus much concerning the wind.</p>
+            </div>
+            <div type="subpart">
+               <head>Concerning the way of a Ship or Shipping at Sea.</head>
+               <p>FIrſt, there is to be vnderſtood and likewiſe to be reſpected by him that hath the charge (whatſoever in navigation) that there is two lawfull and good navigable courſes to be vſed at the Seas, and no more, eyther of which courſes is very artificiall (the kée<g ref="char:EOLhyphen"/>ping of them aright) &amp; reſteth in the good deſcretion of the ſaid Ma<g ref="char:EOLhyphen"/>ſter. being likewiſe artificiall, which of them he will uſe.</p>
+               <p>But if the ſaid Maſter be not artificiall, but a man of great con<g ref="char:EOLhyphen"/>ceit, the manner or way of theſe courſes be too deepe for his vnder<g ref="char:EOLhyphen"/>ſtanding, and therefore he not worthy to take charge at all.</p>
+               <p>My reaſon is this, becauſe all other courſes whatſoever more then theſe two, are abſurd, frivolous and falſe: the names of which two courſes followeth.</p>
+            </div>
+            <div type="subpart">
+               <head>Firſt the courſe vpon the great Circle being the neereſt way from place to place.</head>
+               <p>The firſt courſe is to ſayle vpon a great Circle which is after this manner: being in any one latitude and longitude whatſoe<g ref="char:EOLhyphen"/>ver, which is your firſt place, and doe purpoſe to ſayle from thence vpon any Azimuths of demonſtrature whatſoever, which are great circles, vntill you come to <hi>90</hi> degrees in longitude, which is vnto the Horizon of your firſt place, in which way you are to reſpect every day at noone your Latitude (if you may) and like<g ref="char:EOLhyphen"/>wiſe your time as before, or hereafter ſhall be delivered. For the delivery of your longitude, you are likewiſe to reſpect your Sag<g ref="char:EOLhyphen"/>ments, being of what length ſoever vpon the Azimuths you ſayle, how you are, (vpon any diſtance) to croſſe the meridians and paralells: for if you finde your ſelfe in ſuch a latitude, as you ſhould be in, and not in the right longitude, which the Azimuths you ſhould ſayle vpon giveth, then are you alſo wide and to ſeeke
+<pb n="42" facs="tcp:40630:23"/>reformation: alſo if you finde your ſelfe in ſuch a longitude and not in the right latitude which your Azimuthes giveth, then are you alſo wide &amp; to ſéeke reformation, therefore being a harder way or courſe to ſayle vpon the great circle (notwithſtanding this way the néereſt way, or courſe from place to place of all other wayes) requiring alwayes reformation with great Judgement, I will onely deliver <hi>6</hi> examples from one meridian of longitude and latitude <hi>51</hi> deg. <hi>32</hi> min. vpon the demonſtrature, northweſt and by north, continuing it from the firſt place to the Horizon by Sag<g ref="char:EOLhyphen"/>ments of <hi>15</hi> deg. of a great Circle a péece, onely for a taſt and your farther knowledge of this way and ſo will leave it, and hereafter will deliver the remainer of the ſecond courſe or way, which is more eaſie, according to the difference, being the onely and natu<g ref="char:EOLhyphen"/>rall way indéed that the Compaſſe leadeth in.</p>
+            </div>
+            <div type="subpart">
+               <head>The 1 Example.</head>
+               <p>Being in the Latitude and longitude, as aforeſaid, <hi>15</hi> degrées of a great Circle from thence, according to the demonſtrature of N. weſt and by north, croſſeth the
+<hi>18</hi> deg. <hi>30</hi> minutes, or meridian in longitude weſtward from the firſt, and the paralell of north la<g ref="char:EOLhyphen"/>titude <hi>62</hi> degrées <hi>50</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>The 2 Example.</head>
+               <p>Other <hi>15</hi> degrées which maketh <hi>30</hi> deg. from the firſt according to the demonſtrature of northweſt and by north, toucheth the me<g ref="char:EOLhyphen"/>ridian of <hi>50</hi> degr. in longitude weſtward from the firſt, and the paralell of north latitude <hi>69</hi> deg
+<hi>28</hi> min.</p>
+            </div>
+            <div type="subpart">
+               <head>The 3 Example.</head>
+               <p>Other <hi>15</hi> degrées which maketh <hi>45</hi> degr. from the firſt ac<g ref="char:EOLhyphen"/>cording to the demonſtrature, of Northweſt and by north, touch<g ref="char:EOLhyphen"/>eth the Meridian of <hi>92</hi> deg.
+<hi>50</hi> minutes in longitude weſtward from the firſt, and the paralell of North latitude
+<hi>66</hi> degrées, <hi>45</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>The 4 Example.</head>
+               <p>Other <hi>15</hi> degrees which maketh <hi>60</hi> degrees from the firſt, ac<g ref="char:EOLhyphen"/>cording to the demonſtrature of Northweſt and by north, touch<g ref="char:EOLhyphen"/>eth the Meridian of <hi>118</hi> degrees in Longitude weſtward from the firſt, and the paralell of north latitude <hi>57</hi> degrees,</p>
+            </div>
+            <div type="subpart">
+               <head>The 5 Example.</head>
+               <p>Other <hi>15</hi> degrees which maketh <hi>75</hi> degrees from the firſt,
+<pb n="43" facs="tcp:40630:23"/>according to the demonſtrature of N. weſt and by north, toucheth the Meridian of <hi>130</hi> deg. <hi>32</hi> min. in longitude weſtward from the firſt, and the paralell of north latitude <hi>44</hi> degrees <hi>35</hi> minutes.</p>
+            </div>
+            <div type="subpart">
+               <head>The 6 Example.</head>
+               <p>The other or laſt <hi>15</hi> degrees, which maketh <hi>90</hi> degrees from the firſt, and is the Horizon thereof according to the demonſtra<g ref="char:EOLhyphen"/>ture of the northweſt and by north, toucheth the Meridian of <hi>139</hi> degrees, <hi>15</hi> minutes in longitude weſtward from the firſt, and the paralell of north latitude <hi>31</hi> degrees <hi>10</hi> minutes.</p>
+               <p>And as for the ſecond courſe or way of the Compaſſe vpon the difference which we will rely vpon, I have delivered ſufficiently thereof, as a foreſaid, and for that which is alſo needfull beſides concerning this way vpon the difference to be delivered, hereaf<g ref="char:EOLhyphen"/>ter in good ſort and order followeth</p>
+               <p>There is to be reſpected by a Maſter of a Ship, or the man that taketh charge in navigation, the goodneſſe of the Compaſſe which he ſayleth by, with the nutation thereof in any place if it be need<g ref="char:EOLhyphen"/>full, otherwiſe it will cauſe the way of a Ship to be in an Azimuth contrary to his expectation, which will cauſe an error.</p>
+               <p>And for the vnderſtanding of this nutation what it is, in any place may be delivered by a man of good conceit, as followeth, ha<g ref="char:EOLhyphen"/>ving a <hi>Topographicall</hi> inſtrument or otherwiſe called a <hi>Theodolite</hi> of braſſe, perfectly made, and the Needle good, being well touched with an excellent Stone, and handled for the purpoſe, delivereth the nutation very well: but if the ſea-gate be ſo great that this Inſtrument cannot deliver it certain, then will no Inſtrument (ſet forth for this purpoſe) deliver it neither, then muſt you worke thus, the height of the Sunne in the Meridian at Noone obſerved by the Compaſſe, the Compaſſe it ſelfe, then delivereth the nuta<g ref="char:EOLhyphen"/>tion from Noone, but rather thus: the latitude at Noone knowne, then vpon any obſervation of the Sunne by the Compaſſe on a<g ref="char:EOLhyphen"/>ny elevation about <hi>3.</hi> a clock in the afternoone, the declination re<g ref="char:EOLhyphen"/>ſpected, the Compaſſe delivereth the nutation more truer, my rea<g ref="char:EOLhyphen"/>ſon is this: becauſe the deſcention of the Sunne in his diurnall Arch at this time in the afternoone is more ſwifter towards the Horizon, then it is, the Sunne being néere the Meridian.</p>
+               <p>Alſo that the ſaid Maſter have with him of the beſt running Glaſ<g ref="char:EOLhyphen"/>ſes that can be made, as aforeſaid, to deliver the time vnto him,
+<pb n="44" facs="tcp:40630:24"/>as certaine as may be, which muſt be regarded as a principall thing, the coarting of the Meridians reſpected, for the delivery of the Longitude in any place, by which way the longitude is delive<g ref="char:EOLhyphen"/>red after the beſt manner, the latitude being knowne, otherwiſe, the time not reſpected or regarded, the longitude will be delivered with the more error.</p>
+               <p>Likewiſe the Azimuth of the way muſt be delivered or ſet downe according to the difference, and not otherwiſe, and not a<g ref="char:EOLhyphen"/>bove <hi>20</hi> leagues the Sagment: for the ſnorter the Segments be the truer the reckoning, which Azimuths of way vpon the diffe<g ref="char:EOLhyphen"/>rance, delivereth the longitude alſo in reaſonable ſort the latitude being knowne, yet in this way is more abſurditie, then in the for<g ref="char:EOLhyphen"/>mer way for the delivery of the longitude.</p>
+               <p>Moreover there is to be reſpected by him that hath the charge in navigation, the violence of winds, Sea-gates, Tide-gates, ſur<g ref="char:EOLhyphen"/>rents, Edies or whatſoever elſe, that may eyther be helping of the ſhip in her way, or a hinderance of her way, which cauſeth an Azi<g ref="char:EOLhyphen"/>muth of way, contrary to expectation, which not regarded, bring<g ref="char:EOLhyphen"/>eth alſo an error.</p>
+               <p>And for the obſerving of Latitudes at the Seas, it had néed to be very preciſely done, having a large Quadrant of braſſe with a mooveable perpendiculer accordingly, delivereth it in the beſt ſort: for in obſerving with Croſſe, ſtaves there is error, my rea<g ref="char:EOLhyphen"/>ſon is this, the ſtaffe not lawfully projected to the great circle, de<g ref="char:EOLhyphen"/>livereth error: my further reaſon alſo is this in obſerving with the ſtaffe, the eye is faine to behold and note two things at once, which is the center of the Sunne, and the Horizon, which is not poſſible to be done truely.</p>
+               <p>And in a Sea-gate it can neither be preciſely delivered by an Aſtrolabe, therefore the Quadrant beſt for this purpoſe: for in ob<g ref="char:EOLhyphen"/>ſerving therewith, there is but onely the center of the Sun, to be reſpected. Alſo there muſt be great care had by him that hath the charge in navigation, vnto the Steeridge of the ſhip that it be greatly reſpected of him, and of theſe principall men which goeth in the ſhip with him. which he doth appoint for this purpoſe, be<g ref="char:EOLhyphen"/>cauſe the man at the Steridge may be negligent, and by ſome men that may be at the Steridge, as I have ſéene my ſelfe er<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now, a
+<hi>3</hi> or <hi>4</hi> points of eyther ſide of the courſe, commanded to be kept,
+<pb n="45" facs="tcp:40630:24"/>breaketh no ſquare with him, which had or contrary Steridge to expectation, not counted of or noted, cauſeth a foule error.</p>
+               <p>And whereas there are infinite ſorts of ſhipping, for bigneſſe, length, and draft, ſo they are as different in qualities, wherefore I will deliver as many qualities concerning all ſorts of Ship<g ref="char:EOLhyphen"/>ping, as at this preſent I can remember, leaving the conſiderati<g ref="char:EOLhyphen"/>on of the reſt, (not now remembred of mée, vnto him that hath the charge for the preſent) with thoſe nominated according as he ſhall finde the Ships quality to be which he goeth in, the qualities as followeth.</p>
+               <p>Of Shipping there are divers ſorts which have divers qualities the reaſon is this, becauſe they are different in bigneſſe and mould, and may be miſtrived. To procéed, ſome of them are long, and ſome ſhort, ſome of them flottie, and other ſome of great charge, or draft, ſome have a deſire or caſt to Portward, and ſome other to ſtarbord, ſome of them good to ſayle (try) weather about without ſayles or hull, &amp; other ſome qualited to the contrary, ſome are deſi<g ref="char:EOLhyphen"/>rous to have there ſtayes and ſhrowds ſlacked, and ſome to have them ſet tought, ſome Ships deſire to be trimmed a head, ſome a ſterne, and ſome others of an even kéele, ſome ſtéereth hard every way, and other ſome eaſie of ſtéeridge any way: ſome Ships being in a ſea-gate will ſtay, or wend to windward, and other ſome cannot, but muſt wend afore the wind, which is a great loſſe of way, long and ſhort ſhipping being flotty, are laborſome in a ſea<g ref="char:EOLhyphen"/>gate, but long or ſhort being déepe Shipping, is eaſie at Sea, ſome are faſt Ships vpon a wind, and ſome others are léeward, ſome are good Ships of aſayle quarter winds, and ſome not ſo good: ſome are good a fore the wind, and ſome others to the contrary, ſome Ships are ſtiffe ſided which is a principall quality, and ſome other are tender ſided, which is a bad quality, ſome Ships are of advantage moſt wayes, and other ſome are to the con<g ref="char:EOLhyphen"/>trary.</p>
+               <p>Therefore the quality of a Ship is greatly to be regarded of him that hath the charge, for a Ship of advantage or diſadvan<g ref="char:EOLhyphen"/>tage, cauſeth an Azimuth of way contrary to expectation, which not being reſpected cauſeth an error.</p>
+               <p>Now for your diurnall by ſome called a Travers booke, or booke wherein you kéepe reckoning of the Ships way at the Seas, in
+<pb n="46" facs="tcp:40630:25"/>my conceit and as I doe uſe, is in manner as followeth.</p>
+               <p>In the head or beginning of which Booke, ſet downe the Title thereof, with the <hi>Moneth, day,</hi> and <hi>date of our Lord,</hi> at the time of your beginning to enter into your navigation: after which being ſet downe, devide the leafe and ſo the reſt of the leaves vp &amp; down into <hi>10</hi> ſpaces or columes, and ſet downe in every colume as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               <p>IN the firſt colume of which Booke, ſet downe the Months and Dayes, according to the ſequell of them as the time ſpendeth.</p>
+               <p>In the ſecond colume, ſet downe the Houres of time ſpent in ſayling upon the Azimuths uſed.</p>
+               <p>In the third colume, ſet downe the Azimuth of the wind, or that wind for the time it was in.</p>
+               <p>In the <hi>4</hi> colume, ſet downe the Courſe which you have kept, that is the courſe on the true Azimuth, according to the difference.</p>
+               <p>In the <hi>5</hi> colume, ſet downe the quantity of Leagues runne vpon the Azimuth as aforeſaid.</p>
+               <p>In the <hi>6</hi> colume, ſet downe the degrées of the Pole elevated.</p>
+               <p>In the <hi>7</hi> col. alſo the min. if there be any, of the Pole elevated.</p>
+               <p>In the <hi>8</hi> colume, ſet downe the degrées of Longitude delivered by the time and Latitude as aforeſaid.</p>
+               <p>In the <hi>9</hi> colume, alſo the minutes (if there be any) of the Lon<g ref="char:EOLhyphen"/>gitude ſo delivered.</p>
+               <p>In the <hi>10</hi> colume, ſet downe your Diſcourſe of things, accor<g ref="char:EOLhyphen"/>ding as you find occaſion.</p>
+            </div>
+            <div type="subpart">
+               <head>And to Conclude.</head>
+               <p>Every of which inconveniences, or rather good knowledge and vnderſtanding as aforeſaid, being thus noted, knowne and regar<g ref="char:EOLhyphen"/>ded by him that hath the charge, he ſhall deliver in his Navigati<g ref="char:EOLhyphen"/>ons the Ships way he goeth in with all advantages, who is wor<g ref="char:EOLhyphen"/>thy to be truſted with any charge, and to receive great commen<g ref="char:EOLhyphen"/>dations.</p>
+               <p>But to the contrary, he that hath the charge, not reſpecting theſe things, as aforeſaid, he delivereth the Ships way with all nvſurdities and error, and to ſpeake the truth, he is not worthy to take charge at all, but to have an inferiour place, which he is more fitter for: and thus will I leave delating of the way of Shipping at Sea.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="47" facs="tcp:40630:25"/>
+            <head>AN APPENDIX, OR A neceſſary Diſcourſe (concerning the Heliſphericall lyne that a Ship deſcribeth upon the Superficies of the Sea, being directed by the <hi>Magneticall Needle</hi> or <hi>Compaſſe.</hi>) Betweene Mr. <hi>Geograph,</hi> and Mr. <hi>Nautae</hi> Enterloquitors.</head>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met, Mr. <hi>Geograph?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>Mr. <hi>Nautae</hi> and ſo are you alſo well met, I have much deſired a long while to have ſome diſcourſe with you.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> With me Sir, about what I pray you?</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> About that which I ſuppoſe you are well ſéene in, I meane the way of a Ship upon the <hi>Superficies</hi> of the Sea, being guided by the <hi>Magneticall Needle</hi> or
+<hi>Compaſſe?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>Sir, I am very willing to entertaine your motion, and at this preſent to diſcourſe with you, there are diverſities of opi<g ref="char:EOLhyphen"/>nions, concerning the way, motion or mooving of a Ship vpon the Superficies of the Sea, which way, motion, or mooving of a Ship is two-fold, principally in Sayling. That is firſt ſpirall, <hi>alias</hi> Heliſphericall, or elſe ſecondly if is vnder a great Circle, the ſpi<g ref="char:EOLhyphen"/>rall or Heliſphericall way is produced by the Ships continuall kéeping of one courſe, the foure Cardinall points excepted.</p>
+               <p>But in the way of ſayling vnder a great Circle, the courſe is alwayes alterable.</p>
+               <p>
+                  <pb n="48" facs="tcp:40630:26"/>And whereas the moſt part of Sea-men will thinks that the demonſtration which is delivered by the common plaine Sea-chart (becauſe it is eaſteſt done) is of all other the moſt exquiſite for the truth thereof; Yet is the ſame indéed,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld with many groſſe errours, ſo that ſuch men muſt and are often times of neceſſity greatly deceived of their expectation.</p>
+               <p>Therefore for the better vnderſtanding of thoſe that are Prac<g ref="char:EOLhyphen"/>titioners in the Art of Navigation, we will in this diſcourſe make relation both of the ſpirall way of a Ship, in kéeping alwayes one courſe, with the Solution of ſuch doubts, and anſwering ſuch al<g ref="char:EOLhyphen"/>legations and objections as may ariſe thorough want of judge<g ref="char:EOLhyphen"/>ment therein; as alſo of ſayling vnder a great Circle with the various and changeable poſition thereof; let me therefore heare your opinion concerning the Rudiments and grounds thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>Firſt, it is neceſſary for all Practitioners of Navigation to know, that the Earth and Water together doe make a round or Sphericall body being encloſed with one converity or ſuper<g ref="char:EOLhyphen"/>ficies, and that the earth and the waters are not plaine or flat for<g ref="char:EOLhyphen"/>med, but like vnto a round Spheare or Globe, it may thereby eaſily be vnderſtood, that the courſes extended from place to place, cannot be truely deſcribed with right lynes, eſpecially in a ſarre diſtance, becauſe they are Segments of great Circles and are cir<g ref="char:EOLhyphen"/>cularly extended, from one place to another.</p>
+               <p>Hence it followes, that the ſuperficies of the Sea being Sphe<g ref="char:EOLhyphen"/>ricall not plaine or flat formed, that a Ship departing from any aſſigned place betwéene the Equator and either of the Poles, by any one Rhombe or point of the Marriner &amp; Compaſſe, the Meri<g ref="char:EOLhyphen"/>dian onely excepted, I ſay that in kéeping one and the ſame courſe ſhe maketh her way neither in ſtreight lyns, great Circle or leſſer Circle, but in a ſpirall lyne compoſed of Segments of great Cir<g ref="char:EOLhyphen"/>cles, and returning by the oppoſite of that Rhombe or point to<g ref="char:EOLhyphen"/>wards the place of her departure, ſhe ſhall make her way in ano<g ref="char:EOLhyphen"/>ther ſpirall lyne, by reaſon whereof ſhe cannot according to that courſe fall with the place of her departure.</p>
+            </sp>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>That the courſe or way of a Ship is Spirall yet concen<g ref="char:EOLhyphen"/>trick to the center of the Earth, and therefore in Segments of
+<pb n="49" facs="tcp:40630:26"/>great Circles, when it is continued by any one Rhombe or point of the Compaſſe (the Eaſt and Weſt, North and South, onely excepted, and that when the Compaſſe hath no variation) is vn<g ref="char:EOLhyphen"/>doubtedly true.</p>
+               <p>But whereas you ſay, that in returning to the place of her de<g ref="char:EOLhyphen"/>parture by the oppoſite point or Rhombe ſhe ſayled out, ſhe ſhall not fall with the place of her departure, (no current nor any ſuch thing to hinder her) you erre very much, yet I would willingly heare by what reaſon you can proove your opinion.</p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>If you will grant that a Ship maketh her way in Seg<g ref="char:EOLhyphen"/>ments of great Circles, then know héereby that all great circles doe in every ſeverall Latitude make ſeverall Angles with the Meridian, alſo thoſe circles that doe in ſeverall Latitudes make like Angles with the Meridian, have their ſeverall declinations or greateſt diſtance from the Equator.</p>
+               <p>And by reaſon of theſe varieties both in Angles and declina<g ref="char:EOLhyphen"/>tions, or greateſt diſtances from the Equinoctiall, there muſt al<g ref="char:EOLhyphen"/>ſo be a variety in the courſes made by oppoſite Angles, and yet both ſpirall.</p>
+               <p>For being vnder the Equinoctiall, an Azimuth of Northeaſt toucheth the Hortzon in Latitude
+<hi>45</hi> deg. <hi>0</hi> min. North Lati<g ref="char:EOLhyphen"/>tude, <hi>90</hi> deg. diſtant from the place of being under the Eqinocti<g ref="char:EOLhyphen"/>all; Then comming to the ſecond place in Latitude <hi>45</hi> deg.
+<hi>0</hi> min. North Latitude, and intending to returne to the firſt place vnder the Equinoctiall by the oppoſite point of Northeaſt, which is Southweſt <hi>45</hi> deg.
+<hi>0</hi> min. from the Meridian, that great circle or Azimuth interſecteth or cutteth the Equator at néere <hi>54</hi> deg. <hi>45</hi> min, which diſtance is leſſe (to returne to the Equator by the op<g ref="char:EOLhyphen"/>poſite point) by <hi>35</hi> deg. <hi>15</hi> min. and is ſhort of the place of depar<g ref="char:EOLhyphen"/>ture; alſo being vnder the Equinoctiall the Northeaſt, Southeaſt, and Southweſt Azimuths doe require <hi>1</hi> deg. <hi>24</hi> min. <hi>51</hi> ſeconds <hi>24</hi> thirds to raiſe one degrée of Latitude.</p>
+               <p>But being in a paralell <hi>60</hi> deg. <hi>0</hi> min. North, the Northeaſt and Northweſt require <hi>1</hi> deg. <hi>26</hi> min. <hi>13</hi> ſeconds <hi>3</hi> thirds of diſ<g ref="char:EOLhyphen"/>tance to raiſe one degrée of Latitude.</p>
+               <p>And in the ſame paralell of <hi>60</hi> deg. <hi>0</hi> min. the Southeaſt and Southweſt, require no more but <hi>1</hi> deg. <hi>23</hi> min. <hi>32</hi> ſeconds <hi>53</hi>
+                  <pb n="50" facs="tcp:40630:27"/>thirds, for one degrée of the Poles depreſſion. Hereby it appear<g ref="char:EOLhyphen"/>eth that the Segments of Northeaſt and Northweſt, are greater to raiſe one degrée, then the Segments of Southeaſt and South<g ref="char:EOLhyphen"/>weſt to depreſſe one degrée, by <hi>0</hi> deg.
+<hi>2</hi> min. <hi>35</hi> ſecond <hi>10</hi> thirds.</p>
+               <p>Moreover the greater Segments which doe raiſe the Pole one degrée in that Latitude, excéed theſe vnder the Equinoctiall by <hi>0</hi> deg. <hi>1</hi> min. <hi>21</hi> ſeconds <hi>39</hi> thirds, and the leſſer Segments which depreſſe the Pole, are leſſe then thoſe of the Equinoctiall by <hi>0</hi> deg. <hi>1</hi> min, <hi>13</hi> ſeconds
+<hi>3</hi> thirds, which might ſerve for ſufficient ſatiſ<g ref="char:EOLhyphen"/>faction that the way outward and homeward are not alike, againe for your better vnderſtanding, you may note, that being at the Equinoctiall, a Segment of a great circle of <hi>20</hi> leagues, which maketh with the Meridian an Angle of <hi>45</hi> deg. <hi>0</hi> min. doth raiſe the Pole and differ the Longitude néere <hi>0</hi> deg. <hi>42</hi> min. <hi>25</hi> ſeconds <hi>3</hi> thirds.</p>
+               <p>And in paralell <hi>60</hi> deg. <hi>0</hi> min. North Latitude, a Segment of <hi>20</hi> leagues Southeaſt or Southweſt depreſſeth the Pole <hi>0</hi> deg. <hi>42</hi> min.
+<hi>58</hi> ſeconds <hi>8</hi> thirds, and differs the Longitude néere <hi>1</hi> deg.
+<hi>23</hi> min. <hi>4</hi> ſeconds <hi>6</hi> thirds, and in the ſame paralell of <hi>60</hi> deg. <hi>0</hi> min. the like ſegment of <hi>20</hi> leagues diſtance Northeaſt or North<g ref="char:EOLhyphen"/>weſt elevateth the Pole <hi>0</hi> deg. <hi>41</hi> min. <hi>57</hi> ſeconds <hi>40</hi> thirds, where<g ref="char:EOLhyphen"/>by it plainly appeare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, that if the way of a Ship be compoſed of Segments of great Circles, the way outward and homeward being made by oppoſite Angles are not alike, yet both Spirall.</p>
+               <p>Therefore a Ship making her way by any one Rhombe or point the Meridian onely excepted, and returning by the oppoſite point thereof, cannot by courſe fall with the place of her departure.</p>
+               <p>And further it muſt be conſidered that the greater Latitude is, and the greater the Angle of the courſe is in reſpect of the Meridi<g ref="char:EOLhyphen"/>an, the greater is the variety, and the Eaſt and Weſt are moſt variable, moreover in North Latitude, if the courſe be betwéene the South and the Eaſt or Weſt, then the way homeward retur<g ref="char:EOLhyphen"/>ning by the oppoſite to the Meridian of the place of departure ſhall be ſhorter then the way outwards, and falleth into a leſſer Lati<g ref="char:EOLhyphen"/>tude according to the courſe, diſtance, and declination from the Equinoctiall, but if the courſe be betweene the North and the Eaſt, and the North and the Weſt, then in returning by the op<g ref="char:EOLhyphen"/>poſite, to the Meridian of the place departure, the way home<g ref="char:EOLhyphen"/>wards
+<pb n="51" facs="tcp:40630:27"/>ſhall be longer then the way outwards, falling likewiſe in<g ref="char:EOLhyphen"/>to a leſſer Latitude, according to the courſe, diſtance, and the de<g ref="char:EOLhyphen"/>clination from the Equinoctiall.</p>
+            </sp>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>If the Spirall or Heliſphericall way of a Ship vpon the Superficies of the Sea, being compoſed of Segments of great Circles, had alſo thoſe Segments limited or honded to containe
+<hi>20</hi> or <hi>30</hi> leagues a péece, then ſhould all your former allegations be true, but thoſe Segments in regard of their ſmalneſſe cannot be ſenſibly diſtinguiſhed, neither can it be certainly ſaid, that a Ship in kéeping alwayes one courſe, continueth vnder one great circle <hi>1</hi> league or <hi>1</hi> mile; for when the courſe is alwaies continued according to any one point of the Compaſſe, it maketh an oblique Angle with the Meridian, and then ſo often as the Ship changeth her Zenith, ſo often ſhée changeth likewiſe the great Circle ſhée maketh her way in, that is to ſay, ſo many Zeniths as ſhée paſſeth vnder, ſo many great Circles ſhée maketh her way in, and each of thoſe Circles make ſeverall Angles with the Equinoctiall, and the greater the Latitudes are the greater are the Angles, for in the Latitude of <hi>59</hi> deg.
+<hi>30</hi> min. the verticall circle of Southweſt and Northeaſt maketh an Angle of <hi>68</hi> deg. <hi>58</hi> min. with the E<g ref="char:EOLhyphen"/>quator, and in Latitude <hi>60</hi> deg <hi>0</hi> min. the Azimuth of Southweſt and Northeaſt maketh an Angle of <hi>69</hi> deg. <hi>18</hi> min. with the Equi<g ref="char:EOLhyphen"/>noctiall. Alſo in paralell <hi>60</hi> deg. <hi>30</hi> min. the Southweſt and North<g ref="char:EOLhyphen"/>eaſt Azimuthes make an Angle of <hi>69</hi> deg. <hi>37</hi> min. with the E<g ref="char:EOLhyphen"/>quator, and in the Latitude of <hi>68</hi> deg. <hi>58</hi> min. it makes an Angle of <hi>69</hi> deg. <hi>18</hi> min. and in the Latitude of <hi>69</hi> deg <hi>37</hi> min. the fore<g ref="char:EOLhyphen"/>ſaid great circles make right Angles with the Meridian, and are circles of Weſt and Eaſt, yet notwithſtanding the variable Angles that theſe great circles make with the Equinoctiall, and the contrary Angles, that every great circle maketh with every new Meridian. I ſay that in regard thoſe Segments that a Ship maketh her way in are ſo ſmall and inſenſible, ſhée ſhall in kéep<g ref="char:EOLhyphen"/>ing one courſe outwards, produce a ſpirall or Heliſphericall line, and returning by the oppoſite point thereof thée ſhall againe paſſe vnder all thoſe Zenithes, that ſhee did in her may outward and in like Segments, and ſhall by the ſame lyne of inclination, fall again with the place of her departure.</p>
+               <p>
+                  <pb n="52" facs="tcp:40630:28"/>But when a Ship maketh an Eaſt or Weſt way the lyne of her Caping maketh alwayes right Angles with the Meridian, then ſhall thoſe great Circles of whoſe Segments the Ships way is compoſed make like Angles with the Equator, that is to ſay equall to the Latitude, and the Ship ſhall according to that courſe runne a paralell to the Equinoctiall.</p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>Mée thinkes that is ſtrange that you will allow the Eaſt and Weſt way of a Ship being made in Segments of great Circles to enterſect the Equator at Eaſt and Weſt, by reaſon whereof they are Touch-lines to the paralell of Latitude, and yet you will not allow or grant the Eaſt and Weſt to make a ſpirall way as well as the reſt.</p>
+               <p>For how is it poſſible that the lyne of Inclination or way of a Ship being compoſed of Segments of great Circles, and thoſe Touch-lines to the paralell of Latitude, ſo that the Ships Ca<g ref="char:EOLhyphen"/>ping is quite contrary to the paralell, and maketh oblique Angles therewith, and that eſpecially in great Latitudes, how then is it poſſible that the Eaſt and Weſt ſhould lead in a paralell or pro<g ref="char:EOLhyphen"/>duce a leſſer Circle or any part thereof.</p>
+            </sp>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>Take a ſmall Compaſſe ſlye, and faſten it to a threed that may paſſe thorow the North and South points thereof, and make a nooſe in the end of the threed and put it vpon the Axis of the Globe at the Pole, then carrying the fly with the thréed about the body of the Globe, and you ſhall ſée the center of the fly deſcribeth a paralell to the Equinoctiall, and yet the Eaſt and Weſt of the fly alwayes reſpecteth the Equinoctiall at
+<hi>90</hi> degrées <hi>0</hi> minut. of diſtance.</p>
+               <p>And ſo would a Ship if ſhée had a haſer or ſome thing elſe faſt about the Pole to attract her thereunto.</p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>But by the Globe thus doe faſten the quadrant of Alti<g ref="char:EOLhyphen"/>tude to the Equinoctiall in the braſſe Meridian, and bring the be<g ref="char:EOLhyphen"/>ginning of the degrées of the quadrant to paralell
+<hi>60</hi> deg. <hi>0</hi> min. and then from that point where the beginning of the degrées of the quadrant do touch in paralell <hi>60</hi> deg. <hi>0</hi> min. along by the edge of the quadrant to the Equinoctiall is the lyne of Eaſt and Weſt,
+<pb n="53" facs="tcp:40630:28"/>now with the point of an néedle or ſome ſuch thing prick of by the edge of the quadrant <hi>1</hi> deg <hi>0</hi> min. and make a marke there, then moove
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lobe vntill the beginning of the degrees of the quadrant doe fit with that marke, and then as before prick of againe <hi>1</hi> deg. <hi>0</hi> min, by the edge of the quadrant, and ſo proceed by <hi>1</hi> deg. <hi>0</hi> min. vntill you have gone round about the Globe, and that the point of the Néedle fall in the firſt Meridian where you began, and you ſhall find the lyne of the Inclination to be dilated from Latitude <hi>60</hi> deg. <hi>0</hi> min. about <hi>2</hi> deg. <hi>20</hi> min. and for further proofe hereof ſuppoſe your ſelfe to be vnder the Equinoctiall, and the Compaſſe to have no variation, and the Ship to cape Eaſt or Weſt, alſo the Maine-maſt to ſtand vpright in the ſteppe, the head thereof pointing to the Zenith, and the heele to the Nadir or rather to the center of the earth, and the mid-ſhip beame making right Angles with the maſt to be paralell to the Axis of the world, I ſay, that this Ship proceeding Eaſt or Weſt in this manner ma<g ref="char:EOLhyphen"/>keth her way in a great Circle to wit in the Equinoctiall, and re<g ref="char:EOLhyphen"/>turning by the oppoſite point thereof ſhall againe fall with the place of her departure.</p>
+               <p>Now I ſay by the ſame reaſon, that if the ſaid Ship being in any Latitude between the Equator and either of the Poles, in Caping Eaſt or Weſt, her mid-ſhip beame ſhall then be a paralell to the plane of the Horizon, and alſo to the Axis of that great Circle or Circles which in her proceeding lyne of Inclination ſhe maketh her way in; the head of the maine-Maſt pointing to the Zenith, and the heele to the Nadir, and the lyne of her Caping maketh contrary Angles with every new paralell. Now if a Ship in ſayling vnder one Circle muſt have her mid-ſhip beame al<g ref="char:EOLhyphen"/>wayes paralell to the Axis of that great Circle ſhee maketh her way in, then in keeping directly vnder one paralell, her mid-ſhip beame muſt be alwayes paralell to the Axis of the world, for that is the Axis of every paralell, and ſo likewiſe the maine-muſt be<g ref="char:EOLhyphen"/>ing rectified perpendicularly in manner as aforeſaid, muſt be alſo a paralell to the Equinoctials diameter, and make an Angle with the Horizon equall to the Latitude, the head thereof not reſpect<g ref="char:EOLhyphen"/>ing the Zenith, nor the heele the Nadir nor the Center of the earth, but the Center of the paralell of her Latitude, and in this manner a Ship may runne in a paralell to the Equinoctiall.</p>
+               <p>
+                  <pb n="54" facs="tcp:40630:29"/>But now this may ſtand with humane reaſon, I leave to your further conſtruction.</p>
+            </sp>
+            <sp>
+               <speaker>Nautae.</speaker>
+               <p>Here in you are notably deceived as it ſhall preſently at large be made plaine and evident, for whereas you ſay that the way of a Ship, cannot deſcribe a paralell to the Equinoctiall except her mid-ſhip beame be paralell to the Axis of the world, I ſay that ſo long as the mid-ſhip-beame remaineth due North and South, that is to ſay paralell to the Meridians Diameter in the plane of the Horizon, although the head of the maine-Maſt (it being perpendi<g ref="char:EOLhyphen"/>cularly erected) point to the Zenith, and the héele to the Nadir, ſo long I ſay, her way ſhall deſcribe a paralell to the Equinocti<g ref="char:EOLhyphen"/>all, but as I ſaid before you ſéeme by all your former allegations to proove, that the way of a Ship; being compoſed of Segments of great Circles ſhould have thoſe Segments limited or termi<g ref="char:EOLhyphen"/>nated to containe <hi>15, 20,</hi> or <hi>30</hi> leagues a péece, which if it were ſo, then ſhould it be altogether according to your ſaying.</p>
+               <p>But now far as much as there is ſome difficulty in the pre<g ref="char:EOLhyphen"/>miſes and few Mariners know how to cenſure thereof, I will therefore briefly proove by Arithmeticall calculation, the Eaſt and Weſt in any Latitude to lead in a paralell as well as the Equinoctiall.</p>
+               <p>Example.</p>
+               <p>The paralell of <hi>60</hi> deg. <hi>0</hi> min. is equall to the length of halfe the Equinoctiall or <hi>180</hi> deg. <hi>0</hi> min. of a great Circle; we will therefore in the ſame make our beginning, and from the firſt place being ſcituate therein, produce <hi>18</hi> Segments which containe <hi>10</hi> deg. <hi>0</hi> min. a péece, which by Arithemeticall calculation may be thus found out.</p>
+               <p>The Theorem. viz.</p>
+               <p>AS the Radius is to the ſine of the Latitude <hi>60</hi> deg <hi>0</hi> min. ſo is the ſine of the Complement of the diſtance the ſine of <hi>80</hi> deg. <hi>0</hi> min. to the ſine of the Latitude of that place where the firſt Segment of <hi>10</hi> deg. <hi>0</hi> min. endeth, and ſo againe in like manner for the ſecond Segment.</p>
+               <p>
+                  <hi>viz.</hi> As the Radius is to the ſine of the Latitude where the firſt Segment endeth, ſo is the ſine of the Complement of <hi>10</hi> deg. <hi>0</hi> min. to the ſine of the Latitude where the ſecond Segment en<g ref="char:EOLhyphen"/>deth,
+<pb n="55" facs="tcp:40630:29"/>and this is to be continued <hi>18</hi> times, ſo ſhall you find the laſt worke to bring forth the ſine of <hi>41</hi> deg. <hi>06</hi> min. but if you worke by Logarithme ſines, multiply the Legarithme ſine of <hi>80</hi> deg. <hi>0</hi> min. (the Complement of
+<hi>10</hi> deg. <hi>0</hi> min.) by <hi>18,</hi> becauſe there are <hi>18</hi> Segments, and the product adde to the Logarithme ſine of <hi>60</hi> deg. <hi>0</hi> min. the Latitude given, the ſumme will be the Loga<g ref="char:EOLhyphen"/>rithme ſine of <hi>41</hi> deg. <hi>06</hi> min. the Latitude of the
+<hi>18</hi> Segment, which dilateth from Latitude <hi>60</hi> deg. <hi>0</hi> min. the ſum of
+<hi>19</hi> deg. <hi>0</hi> min. wanting but <hi>0</hi> deg. <hi>06</hi> min.</p>
+               <p>From whence we may ſée, that if great Segments haue ſuch great alterations, then leſſer Segments muſt have their correſ<g ref="char:EOLhyphen"/>pondent varieties proportionall vnto them, but marke what fol<g ref="char:EOLhyphen"/>lowes, and I make no doubt but that anon you will be of another opinion then formerly you have bin concerning this matter, as from the aforeſaid paralel <hi>60</hi> deg. <hi>0</hi> min. let there be produced <hi>36</hi> Segments according as was afore ſhewed, each Segment contain<g ref="char:EOLhyphen"/>ing <hi>5</hi> deg. <hi>0</hi> min. or <hi>100</hi> leagues a peece, and you ſhall find the end of the laſt Segment to fall in Latitude <hi>49</hi> deg. <hi>41</hi> min. which is dilated from paralell <hi>60</hi> deg. <hi>0</hi> min. but <hi>10</hi> deg. <hi>59</hi> min. where note that this dilatation is leſſe then the former by <hi>7</hi> deg. <hi>55</hi> min.</p>
+               <p>In like manner, in the ſame paralell <hi>60</hi> deg. <hi>0</hi> min. let there be produced
+<hi>180</hi> Segments of <hi>1</hi> deg. <hi>0</hi> min. or <hi>20</hi> leagues apèece, and you ſhall find the end of the laſt Segment to fall in Latitude <hi>57</hi> deg. <hi>25</hi> min. which is dilated but <hi>2</hi> deg <hi>35</hi> min. from paralell <hi>60</hi> deg. <hi>0</hi> min.</p>
+               <p>Againe, let <hi>10800</hi> Segments be produced in the ſame paralell of <hi>60</hi> deg
+<hi>0</hi> min. of <hi>0</hi> deg. <hi>1</hi> min. one minute apeece due Eaſt or Weſt and working according to the former manner, the laſt Seg<g ref="char:EOLhyphen"/>ment will end in <hi>59</hi> deg.
+<hi>57</hi> min. <hi>½.</hi> which dilateth from paralell <hi>60</hi> deg. <hi>0</hi> min. but <hi>2½.</hi> minutes, wherefore the conſideration hereof may ſerve for a ſufficient ſatisfaction plainely to proove that the Eaſt and Weſt directed by the magneticall Needle or Compaſſe doth lead in a Magneticall paralell, for as great Segments have their great varieties. and leſſer Segments have their leſſer alterations correſpondent vnto them ſo by the ſame reaſon inſen<g ref="char:EOLhyphen"/>ſible Segments muſt have inſenſible differences and the like rea<g ref="char:EOLhyphen"/>ſon holdeth for any other point of the Compaſſe as well as for the Eaſt or Weſt as I have formerly ſhewed you, and at our next
+<pb n="56" facs="tcp:40630:30"/>meeting I will ſet you downe or ſhew you the Theorems for operating of it.</p>
+               <p>But you will ſay, here is in <hi>10800</hi> minutes a difference of <hi>2½.</hi> minutes, and Segments of minutes in a mans judgement are ſo ſmall that a Ship cannot make her way in leſſer Segments and yet theſe Segments are not voyd of a ſenſible difference, I anſwer as before, that neither in ſayling Eaſt or Weſt, nor in the ſpirall or Meliſphericall way by any other courſe or point of the Com<g ref="char:EOLhyphen"/>paſſe, a Ships continuance vnder a great Circle or Circles can<g ref="char:EOLhyphen"/>not be terminated, and whereas <hi>10800</hi> minutes doe in the Eaſt or Weſt from Latitude <hi>60</hi> deg. <hi>0</hi> min. produce a difference of
+<hi>2½</hi> minutes, I ſay inreſpect of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0</hi> great a diſtance, the difference is in<g ref="char:EOLhyphen"/>ſouſible.</p>
+               <p>But if you pleaſe to take ſo much paines for the former para<g ref="char:EOLhyphen"/>lell of <hi>60</hi> deg.
+<hi>0</hi> min. to make a tryall from ſecond to ſecond, that is
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>648000</hi> Segments be produced Eaſt or Weſt each Seg<g ref="char:EOLhyphen"/>ment to containe one ſecond and the end of the laſt Segment ſhall not be from the firſt place, ſo much as one ſecond, and thus having prooved ſufficiently that the Eaſt and Weſt being directed by the magneticall Needle or Compaſſe, doth lead in a magneti<g ref="char:EOLhyphen"/>call paralell, and alſo that in keeping one courſe the Ships way is ſpirall or Heliſphericall, and returning by the oppoſite point thereof, the Ship ſhall againe fall with the place of her departure, we will finiſh this diſcourſe, and ſpeake of ſome principall rules which of all ſea-men and Marriners ought to be knowne.</p>
+            </sp>
+            <sp>
+               <speaker>Geograph.</speaker>
+               <p>What is the firſt and moſt uſefull Propoſition in the Pa<g ref="char:EOLhyphen"/>riners practiſe to be taken notice of.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> By the courſe and both Latitudes to find the difference of Longitude and the diſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> For what reaſon is that propoſition is ſayling the prima<g ref="char:EOLhyphen"/>ry and moſt uſefull.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> Becauſe the courſe is commonly given, and the Lati<g ref="char:EOLhyphen"/>tudes may be knowne by obſervation, but the diſtance and the difference of Longitude by ſayling may be ſuppoſed but not cer<g ref="char:EOLhyphen"/>tainly knowne without the helpe of the former, and ſo likewiſe the diſtance in ſayling Eaſt or Weſt may be ſuppoſed, but not certainly knowne.</p>
+            </sp>
+            <sp>
+               <pb n="57" facs="tcp:40630:30"/>
+               <speaker>Geo.</speaker>
+               <p> I pray you Sir, let vs then procéed, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the practiſe with<g ref="char:EOLhyphen"/>out any further circumſtance, that having both Latitudes and the courſe we may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nde the difference of Longitude and the diſtance</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> We will Sir.</p>
+               <p>Suppoſe a ſhip to be in Latitude <hi>50</hi> deg. <hi>0</hi> min. North Lati<g ref="char:EOLhyphen"/>tude ſayles South South-weſt <hi>½</hi> point Weſt, vntill ſhe be in the Latitude of <hi>47</hi> deg. <hi>0</hi> min. I demand the difference of Longitude and the diſtance the Ship hath runne.</p>
+               <p>The Theorem.</p>
+               <p>AS a meane proportionall betwéene the fines of the Comple<g ref="char:EOLhyphen"/>ments of both Latitudes is to the Tangent of the courſe, ſo is the difference of Latitude to the difference of Longitude, which by the Logarithmes is thus.</p>
+               <p>Adde the Logarithme tangent of the courſe <hi>28</hi> deg. <hi>7</hi> min. to
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Logarithme of the difference of Latitude
+<hi>60</hi> leagues, and from that ſumme ſubtract halfe the ſine Complement of <hi>50</hi> deg. <hi>0</hi> min. which is halfe the ſine of <hi>40</hi> deg. <hi>0</hi> min. and halfe the ſine Com<g ref="char:EOLhyphen"/>plement of <hi>47</hi> deg. <hi>0</hi> min. which is halfe the ſine of <hi>43</hi> deg. <hi>0</hi> min. added together, (I meane Logarithme ſines) and the remainer ſhall be the Logarithme of the difference of Longitude.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> What is the ſecond moſt uſefull propoſition that a Mar<g ref="char:EOLhyphen"/>riner in his practice is to take notice of.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> By both Latitudes and the departure from the Meridi<g ref="char:EOLhyphen"/>an to find the difference of Longitude the courſe and the diſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> Wherefore doe you account this to be the ſecond moſt uſefull propoſition in the Marriners practice.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> Becauſe all Marriners that kéepe their account by dif<g ref="char:EOLhyphen"/>ference of Latitude and difference of Longitude (which onely is the true way) after that they have ca<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> vp their Traverſe by diffe<g ref="char:EOLhyphen"/>rence of Latitude and departure from the Meridian, doe find their difference of Longitude as well as their courſe and their diſtance from their firſt place, where they began their Traverſe this way.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> I pray you Sir, ſet me downe the Theorems for the ope<g ref="char:EOLhyphen"/>rating of this.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> I will Sir, which are theſe following.</p>
+               <p n="1">
+                  <hi>1</hi> As the ſumme of halfe the Logarithme ſines of the Comple<g ref="char:EOLhyphen"/>ments of both Latitudes is to the departure from the Meridian, ſo is the Radius to the difference of Longitude.</p>
+               <p n="2">
+                  <pb n="58" facs="tcp:40630:31"/>
+                  <hi>2</hi> As the difference of Latitude is to the departure from the Meridian, ſo is the Radius to the Tangent of the courſe.</p>
+               <p n="3">
+                  <hi>3</hi> As the ſine of the Complement of the courſe is to the Radi<g ref="char:EOLhyphen"/>us, ſo is the difference of Latitude to the diſtance that the ſhip hath runne from the firſt place where ſhe began her Traverſe.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> What is the third, and as I remember you ſaid the laſt uſefull peopoſition to be taken notice of in the Mariners practice.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> By having given the Latitudes of two places and their difference of Longitude to find the magneticall courſe or Rhomb, and the diſtance.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> How can this be uſefull for a Mariner in his practiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> Becauſe many times it chanceth that a Marriner is to ſayle from one port whoſe Latitude and Longitude he hath in Geographicall tables (as in Mr. <hi>Hughes</hi> his uſe of the Globes or in the Tables of the <hi>Sea-mans Kalender</hi>) and is to ſayle ſo ano<g ref="char:EOLhyphen"/>ther port, whoſe Latitude and Longitude he hath alſo in the ſaid Tables, and by this propoſition be may examine the truth of his Sea-chart he ſayles by.</p>
+            </sp>
+            <sp>
+               <speaker>Geo,</speaker>
+               <p> Set me downe the <hi>Theorems</hi> for this propoſition, and I will trouble you no further at this time.</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> Sir, I am in ſome haſt becauſe the time is farther ſpent then I ſuppoſed ſince we met, but I will performe your re<g ref="char:EOLhyphen"/>queſt, and then I will take my leave of you for this time.</p>
+               <p>Firſt, as the difference of Latitude is to the difference of Lon<g ref="char:EOLhyphen"/>gitude, ſo is halfe the ſines Complements of both Latitudes (I meane of the Logarithme ſines) to the Tangent of the courſe.</p>
+               <p>Secondly as before, as the ſine Complement of the courſe is to Radius, ſo is the difference of Latitude to the diſtance runne.</p>
+            </sp>
+            <sp>
+               <speaker>Geo.</speaker>
+               <p> Maſter <hi>Nautae,</hi> I thanke you very kindly for your com<g ref="char:EOLhyphen"/>pany, and your conference, you have informed my judgment very much in the matter of Navigation,</p>
+            </sp>
+            <sp>
+               <speaker>Nau.</speaker>
+               <p> Sir, I am very joyfull of it, fare you well.</p>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
